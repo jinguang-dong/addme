@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="16dp">
+        <TextView
+            android:textAppearance="?attr/textAppearanceBodyMedium"
+            android:textColor="?attr/colorOnSurface"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxWidth="@dimen/bottom_sheet_text_max_width"
+            android:text="@string/motion_photo_feature_description"
+            android:layout_marginHorizontal="24dp"/>
+        <HorizontalScrollView
+            android:gravity="center_horizontal"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/motion_photo_edu_video_scrollview"
+            android:scrollbars="none"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="48dp">
+            <include
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                layout="@layout/motion_photo_edu_video_slider"/>
+        </HorizontalScrollView>
+    </LinearLayout>
+</merge>

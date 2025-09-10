@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_timelapse_manual_record_speed_desc">
+        <item quantity="one">Цагийн урсац %d цагийн хурд</item>
+        <item quantity="other">Цагийн урсац %d цагийн хурд</item>
+    </plurals>
+    <plurals name="capture_time_label_desc">
+        <item quantity="one">%d секунд</item>
+        <item quantity="other">%d секунд</item>
+    </plurals>
+    <plurals name="menu_has_timer">
+        <item quantity="one">%d сек</item>
+        <item quantity="other">%d сек</item>
+    </plurals>
+    <plurals name="more_than_max_objects_announcement">
+        <item quantity="one">Нэгээс олон объект.</item>
+        <item quantity="other">%1$d-с олон объект.</item>
+    </plurals>
+    <plurals name="nightlapse_recording_1080p_chip">
+        <item quantity="one">%1$d секундийн видеонд %2$d минутын бичлэг шаардлагатай</item>
+        <item quantity="other">%1$d секундийн видеонд %2$d минутын бичлэг шаардлагатай</item>
+    </plurals>
+    <plurals name="nightlapse_recording_4k_chip">
+        <item quantity="one">%1$d секундийн видеонд %2$d минутын бичлэг шаардлагатай</item>
+        <item quantity="other">%1$d секундийн видеонд %2$d минутын бичлэг шаардлагатай</item>
+    </plurals>
+    <plurals name="number_of_cropped_face">
+        <item quantity="one">Нэгийг тайрсан.</item>
+        <item quantity="other">%d-г тайрсан.</item>
+    </plurals>
+    <plurals name="photos_remaining">
+        <item quantity="one">Ойролцоогоор %s зураг</item>
+        <item quantity="other">Ойролцоогоор %s зураг</item>
+    </plurals>
+    <plurals name="videos_remaining">
+        <item quantity="one">%s минутын видео</item>
+        <item quantity="other">%s минутын видео</item>
+    </plurals>
+</resources>

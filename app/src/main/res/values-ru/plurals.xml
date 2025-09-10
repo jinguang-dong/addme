@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_timelapse_manual_record_speed_desc">
+        <item quantity="one">Скорость записи в режиме ускорения: %d</item>
+        <item quantity="few">Скорость записи в режиме ускорения: %d</item>
+        <item quantity="many">Скорость записи в режиме ускорения: %d</item>
+        <item quantity="other">Скорость записи в режиме ускорения: %d</item>
+    </plurals>
+    <plurals name="capture_time_label_desc">
+        <item quantity="one">%d секунда</item>
+        <item quantity="few">%d секунды</item>
+        <item quantity="many">%d секунд</item>
+        <item quantity="other">%d секунды</item>
+    </plurals>
+    <plurals name="menu_has_timer">
+        <item quantity="one">%d секунда</item>
+        <item quantity="few">%d секунды</item>
+        <item quantity="many">%d секунд</item>
+        <item quantity="other">%d секунды</item>
+    </plurals>
+    <plurals name="more_than_max_objects_announcement">
+        <item quantity="one">Более %1$d объекта.</item>
+        <item quantity="few">Более %1$d объектов.</item>
+        <item quantity="many">Более %1$d объектов.</item>
+        <item quantity="other">Более %1$d объекта.</item>
+    </plurals>
+    <plurals name="nightlapse_recording_1080p_chip">
+        <item quantity="one">Для %1$d-секундного видео нужно записывать %2$d минуту.</item>
+        <item quantity="few">Для %1$d-секундного видео нужно записывать %2$d минуты.</item>
+        <item quantity="many">Для %1$d-секундного видео нужно записывать %2$d минут.</item>
+        <item quantity="other">Для %1$d-секундного видео нужно записывать %2$d минуты.</item>
+    </plurals>
+    <plurals name="nightlapse_recording_4k_chip">
+        <item quantity="one">Для %1$d-секундного видео нужно записывать %2$d минуту.</item>
+        <item quantity="few">Для %1$d-секундного видео нужно записывать %2$d минуты.</item>
+        <item quantity="many">Для %1$d-секундного видео нужно записывать %2$d минут.</item>
+        <item quantity="other">Для %1$d-секундного видео нужно записывать %2$d минуты.</item>
+    </plurals>
+    <plurals name="number_of_cropped_face">
+        <item quantity="one">%d лицо частично в кадре.</item>
+        <item quantity="few">%d лица частично в кадре.</item>
+        <item quantity="many">%d лиц частично в кадре.</item>
+        <item quantity="other">%d лица частично в кадре.</item>
+    </plurals>
+    <plurals name="photos_remaining">
+        <item quantity="one">Примерно %s фотография</item>
+        <item quantity="few">Примерно %s фотографии</item>
+        <item quantity="many">Примерно %s фотографий</item>
+        <item quantity="other">Примерно %s фотографии</item>
+    </plurals>
+    <plurals name="videos_remaining">
+        <item quantity="one">%s минута видео</item>
+        <item quantity="few">%s минуты видео</item>
+        <item quantity="many">%s минут видео</item>
+        <item quantity="other">%s минуты видео</item>
+    </plurals>
+</resources>

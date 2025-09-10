@@ -1,0 +1,56 @@
+package com.google.android.apps.camera.jni.gxp.Caan;
+
+/* loaded from: classes.dex */
+public class yoGAhrpjU {
+    public static String AOVufrPRpsqHLnb;
+    public static String AkPUsCkamY;
+    public static String GZpA;
+    public static String IXF;
+    public static String JJcqr;
+    public static String JXbrIoUmL;
+    public static String LuAeOxkfIAkfgHe;
+    public static String MBirtaEIGRXQ;
+    public static String MepskJvOXcexby;
+    public static String QNmWBj;
+    public static String Rmsmz;
+    public static String TMuHdlOebckSm;
+    public static String Tsp;
+    public static String ZVHKkqj;
+    public static String ZbXLAwhXxrBe;
+    public static String ZfxpWuxS;
+    public static String ZmxAlanSc;
+    public static String aHQMnXWWxL;
+    public static String arZjCcj;
+    public static String bpkEOs;
+    public static String cSmKWMIZAD;
+    public static String dZobXeFHe;
+    public static String dbPzUJNGbYsI;
+    public static String eEkfRhAemIO;
+    public static String esBgvTvaovpfyZX;
+    public static String fhAyRSEmqfcIWvS;
+    public static String gtDOExdXVonaMfq;
+    public static String jOIeb;
+    public static String jqjLHuRLeyhwd;
+    public static String lyvUepYcVgZ;
+    public static String mKHtZknuUjcBU;
+    public static String myPejedoeuvn;
+    public static String oVVtJNHhBc;
+    public static String ofxJgHux;
+    public static String poMEVi;
+    public static String qCCwcqaZ;
+    public static String qHyXZhRls;
+    public static String qyhW;
+    public static String tNjhojwqaqsgpEV;
+    public static String treYSgKjZD;
+    public static String uvPfxYoCKq;
+    public static String wOKWSSajbYVyryh;
+    public static String xLwODAivjpwSkT;
+    public static String yArqyJ;
+    public static String yLyFTnFsikrtoqp;
+    public static String yTmiQuckhPWuLx;
+    public static String yXnGgTJ;
+    public static String zaXcRpYBsE;
+    public static String zbPfIepkXKRrFSS;
+    public static String zgFgOh;
+    public static String zwukzOBfh;
+}

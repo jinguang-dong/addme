@@ -1,0 +1,54 @@
+package com.google.android.clockwork.common.wearable.wearmaterial.list.CaNf;
+
+/* loaded from: classes.dex */
+public class PJGqOKsIpSdZ {
+    public static String AHPI;
+    public static String BOiFjkACKcZgZtN;
+    public static String BySNu;
+    public static String DeAvMBHFTdhMb;
+    public static String EHdksKlIIWe;
+    public static String FaufVTqrivPCnHE;
+    public static String FbVCAjrkjvz;
+    public static String GhdPAgH;
+    public static String ICuHUYtRpQQyXG;
+    public static String LrwLJU;
+    public static String MgtJN;
+    public static String MtImPwUj;
+    public static String NrnOaChOOaJC;
+    public static String OGcyQuhQ;
+    public static String OZgONBPUd;
+    public static String OsJv;
+    public static String QmKuWpNjsZZYiyn;
+    public static String QnXP;
+    public static String RRxcX;
+    public static String RfGnSfFmbZSmKd;
+    public static String RgNI;
+    public static String RxXccrVcN;
+    public static String SnWlH;
+    public static String UROgFVAOwsI;
+    public static String UauOOc;
+    public static String VFoULQkgthEqXK;
+    public static String VztUPQPwdX;
+    public static String XdqWwzvRfhoTma;
+    public static String YtpGez;
+    public static String apDqB;
+    public static String bskhGFrQEgCrqAc;
+    public static String fFTFsQnLiSq;
+    public static String fxqphRqfnu;
+    public static String gYlMZtFXfPgFaXC;
+    public static String iVKqk;
+    public static String jAQsOTDreIVV;
+    public static String lhVtD;
+    public static String mLM;
+    public static String muPnpvWyJOeTUB;
+    public static String myEr;
+    public static String ozNDrXsKjqxl;
+    public static String pdmVVFczQhEi;
+    public static String qIIwUILgRFZkn;
+    public static String tNABuJGLfBVF;
+    public static String tdL;
+    public static String wHvXDANU;
+    public static String wRPRLLKcrazcf;
+    public static String wZH;
+    public static String yML;
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_timelapse_manual_record_speed_desc">
+        <item quantity="one">Ubrzani video sa brzinom %d</item>
+        <item quantity="few">Ubrzani video sa brzinom %d</item>
+        <item quantity="other">Ubrzani video sa brzinom %d</item>
+    </plurals>
+    <plurals name="capture_time_label_desc">
+        <item quantity="one">%d sekunda</item>
+        <item quantity="few">%d sekunde</item>
+        <item quantity="other">%d sekundi</item>
+    </plurals>
+    <plurals name="menu_has_timer">
+        <item quantity="one">%d sek</item>
+        <item quantity="few">%d sek</item>
+        <item quantity="other">%d sek</item>
+    </plurals>
+    <plurals name="more_than_max_objects_announcement">
+        <item quantity="one">Više od %1$d subjekta.</item>
+        <item quantity="few">Više od %1$d subjekta.</item>
+        <item quantity="other">Više od %1$d subjekata.</item>
+    </plurals>
+    <plurals name="nightlapse_recording_1080p_chip">
+        <item quantity="one">Za video od %1$d sek potreban je %2$d minut snimanja</item>
+        <item quantity="few">Za video od %1$d sek potrebna su %2$d minuta snimanja</item>
+        <item quantity="other">Za video od %1$d sek potrebno je %2$d minuta snimanja</item>
+    </plurals>
+    <plurals name="nightlapse_recording_4k_chip">
+        <item quantity="one">Za video od %1$d sek potreban je %2$d minut snimanja</item>
+        <item quantity="few">Za video od %1$d sek potrebna su %2$d minuta snimanja</item>
+        <item quantity="other">Za video od %1$d sek potrebno je %2$d minuta snimanja</item>
+    </plurals>
+    <plurals name="number_of_cropped_face">
+        <item quantity="one">%d je opsečeno.</item>
+        <item quantity="few">%d su opsečena.</item>
+        <item quantity="other">%d je opsečeno.</item>
+    </plurals>
+    <plurals name="photos_remaining">
+        <item quantity="one">Otprilike %s slika</item>
+        <item quantity="few">Otprilike %s slike</item>
+        <item quantity="other">Otprilike %s slika</item>
+    </plurals>
+    <plurals name="videos_remaining">
+        <item quantity="one">%s minut videa</item>
+        <item quantity="few">%s minuta videa</item>
+        <item quantity="other">%s minuta videa</item>
+    </plurals>
+</resources>

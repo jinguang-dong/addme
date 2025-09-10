@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_timelapse_manual_record_speed_desc">
+        <item quantity="one">タイムラプス: %d 倍速</item>
+        <item quantity="other">タイムラプス: %d 倍速</item>
+    </plurals>
+    <plurals name="capture_time_label_desc">
+        <item quantity="one">%d 秒</item>
+        <item quantity="other">%d 秒</item>
+    </plurals>
+    <plurals name="menu_has_timer">
+        <item quantity="one">%d 秒</item>
+        <item quantity="other">%d 秒</item>
+    </plurals>
+    <plurals name="more_than_max_objects_announcement">
+        <item quantity="one">被写体が複数あります。</item>
+        <item quantity="other">被写体が %1$d 以上あります。</item>
+    </plurals>
+    <plurals name="nightlapse_recording_1080p_chip">
+        <item quantity="one">%1$d 秒の動画には %2$d 分の録画が必要です</item>
+        <item quantity="other">%1$d 秒の動画には %2$d 分の録画が必要です</item>
+    </plurals>
+    <plurals name="nightlapse_recording_4k_chip">
+        <item quantity="one">%1$d 秒の動画には %2$d 分の録画が必要です</item>
+        <item quantity="other">%1$d 秒の動画には %2$d 分の録画が必要です</item>
+    </plurals>
+    <plurals name="number_of_cropped_face">
+        <item quantity="one">1 件切り抜きました。</item>
+        <item quantity="other">%d 件切り抜きました。</item>
+    </plurals>
+    <plurals name="photos_remaining">
+        <item quantity="one">写真: 約 %s 枚</item>
+        <item quantity="other">写真: 約 %s 枚</item>
+    </plurals>
+    <plurals name="videos_remaining">
+        <item quantity="one">動画: %s 分</item>
+        <item quantity="other">動画: %s 分</item>
+    </plurals>
+</resources>

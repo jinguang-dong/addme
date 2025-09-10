@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottom_bar_content_size">102dp</dimen>
+    <dimen name="mode_chip_inset_horizontal">3dp</dimen>
+    <dimen name="options_menu_label_margin_left">12dp</dimen>
+    <dimen name="optionsbar_category_height">44dp</dimen>
+    <dimen name="optionsbar_category_width">44dp</dimen>
+    <dimen name="zoom_dot_trans_adjust">0dp</dimen>
+    <dimen name="zoom_lock_icon_offset">-24dp</dimen>
+    <dimen name="zoom_lock_offset">-48dp</dimen>
+    <dimen name="zoom_lock_translation">-56dp</dimen>
+    <dimen name="zoom_lock_width">60dp</dimen>
+</resources>

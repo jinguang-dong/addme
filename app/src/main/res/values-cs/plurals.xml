@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_timelapse_manual_record_speed_desc">
+        <item quantity="one">Časosběr, %d rychlost</item>
+        <item quantity="few">Časosběr, %d rychlost</item>
+        <item quantity="many">Časosběr, %d rychlost</item>
+        <item quantity="other">Časosběr, %d rychlost</item>
+    </plurals>
+    <plurals name="capture_time_label_desc">
+        <item quantity="one">%d sekunda</item>
+        <item quantity="few">%d sekundy</item>
+        <item quantity="many">%d sekundy</item>
+        <item quantity="other">%d sekund</item>
+    </plurals>
+    <plurals name="menu_has_timer">
+        <item quantity="one">%d s</item>
+        <item quantity="few">%d s</item>
+        <item quantity="many">%d s</item>
+        <item quantity="other">%d s</item>
+    </plurals>
+    <plurals name="more_than_max_objects_announcement">
+        <item quantity="one">Více než jeden objekt.</item>
+        <item quantity="few">Více než %1$d objekty.</item>
+        <item quantity="many">Více než %1$d objektu.</item>
+        <item quantity="other">Více než %1$d objektů.</item>
+    </plurals>
+    <plurals name="nightlapse_recording_1080p_chip">
+        <item quantity="one">%1$d s videa vyžaduje %2$d min nahrávání</item>
+        <item quantity="few">%1$d s videa vyžaduje %2$d min nahrávání</item>
+        <item quantity="many">%1$d s videa vyžaduje %2$d min nahrávání</item>
+        <item quantity="other">%1$d s videa vyžaduje %2$d min nahrávání</item>
+    </plurals>
+    <plurals name="nightlapse_recording_4k_chip">
+        <item quantity="one">%1$d s videa vyžaduje %2$d min nahrávání</item>
+        <item quantity="few">%1$d s videa vyžaduje %2$d min nahrávání</item>
+        <item quantity="many">%1$d s videa vyžaduje %2$d min nahrávání</item>
+        <item quantity="other">%1$d s videa vyžaduje %2$d min nahrávání</item>
+    </plurals>
+    <plurals name="number_of_cropped_face">
+        <item quantity="one">1 oříznutý.</item>
+        <item quantity="few">%d oříznuté.</item>
+        <item quantity="many">%d oříznutého.</item>
+        <item quantity="other">%d oříznutých.</item>
+    </plurals>
+    <plurals name="photos_remaining">
+        <item quantity="one">Přibližně %s fotka</item>
+        <item quantity="few">Přibližně %s fotky</item>
+        <item quantity="many">Přibližně %s fotky</item>
+        <item quantity="other">Přibližně %s fotek</item>
+    </plurals>
+    <plurals name="videos_remaining">
+        <item quantity="one">%s minuta videa</item>
+        <item quantity="few">%s minuty videa</item>
+        <item quantity="many">%s minuty videa</item>
+        <item quantity="other">%s minut videa</item>
+    </plurals>
+</resources>

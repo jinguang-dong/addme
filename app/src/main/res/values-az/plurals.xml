@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_timelapse_manual_record_speed_desc">
+        <item quantity="one">Zaman Axını %d x sürət</item>
+        <item quantity="other">Zaman Axını %d x sürət</item>
+    </plurals>
+    <plurals name="capture_time_label_desc">
+        <item quantity="one">%d saniyə</item>
+        <item quantity="other">%d saniyə</item>
+    </plurals>
+    <plurals name="menu_has_timer">
+        <item quantity="one">%d san</item>
+        <item quantity="other">%d san</item>
+    </plurals>
+    <plurals name="more_than_max_objects_announcement">
+        <item quantity="one">Bir obyektdən çox.</item>
+        <item quantity="other">%1$d obyektdən çox.</item>
+    </plurals>
+    <plurals name="nightlapse_recording_1080p_chip">
+        <item quantity="one">%1$d saniyəlik video %2$d dəqiqəlik çəkiliş tələb edir</item>
+        <item quantity="other">%1$d saniyəlik video %2$d dəqiqəlik çəkiliş tələb edir</item>
+    </plurals>
+    <plurals name="nightlapse_recording_4k_chip">
+        <item quantity="one">%1$d saniyəlik video %2$d dəqiqəlik çəkiliş tələb edir</item>
+        <item quantity="other">%1$d saniyəlik video %2$d dəqiqəlik çəkiliş tələb edir</item>
+    </plurals>
+    <plurals name="number_of_cropped_face">
+        <item quantity="one">Bir üz kəsilib.</item>
+        <item quantity="other">%d üz kəsilib.</item>
+    </plurals>
+    <plurals name="photos_remaining">
+        <item quantity="one">%s foto haqqında</item>
+        <item quantity="other">%s foto haqqında</item>
+    </plurals>
+    <plurals name="videos_remaining">
+        <item quantity="one">%s dəqiqəlik video</item>
+        <item quantity="other">%s dəqiqəlik video</item>
+    </plurals>
+</resources>

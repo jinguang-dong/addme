@@ -1,0 +1,50 @@
+package com.google.android.apps.camera.autotimer.analysis.jni.wVCD;
+
+/* loaded from: classes.dex */
+public class HHdu {
+    public static String CYxTDhZMI;
+    public static String DfurDysreWbec;
+    public static String ETFZr;
+    public static String FpSFUKHiCw;
+    public static String FyBGgMTqQ;
+    public static String HfpVaWvbHOHogB;
+    public static String JoKGPXWEv;
+    public static String KCKlV;
+    public static String KiDDbyrKJDCwfJ;
+    public static String MGy;
+    public static String OCM;
+    public static String OUoodXcIvLq;
+    public static String OhkFFBe;
+    public static String QWMnUuZkQpONlQ;
+    public static String RGzZiYVIw;
+    public static String SrrSPLKqn;
+    public static String VdJgcAolJT;
+    public static String XlbyH;
+    public static String YJGZjjpkihVvzG;
+    public static String afxnL;
+    public static String aoEiyWQqmJ;
+    public static String dDiMDj;
+    public static String dGw;
+    public static String eZEgBHUF;
+    public static String fxrwRu;
+    public static String ijdBXTfMISwXwA;
+    public static String jUPtSu;
+    public static String jrdZTsTyIaO;
+    public static String lAAkaYqMkTzxa;
+    public static String lnODnngXnBEP;
+    public static String mfNhaFBDYSUm;
+    public static String nAt;
+    public static String nJylZMlTszYKAeE;
+    public static String nkeSWE;
+    public static String oArT;
+    public static String oGiY;
+    public static String ocY;
+    public static String pTwlCgxbge;
+    public static String qLNeEZuQeGztY;
+    public static String qNDObXX;
+    public static String qvIap;
+    public static String ssqAKZa;
+    public static String waalVhEzuksdY;
+    public static String xWUiaEYnit;
+    public static String ymyOxXiSnvYcWs;
+}

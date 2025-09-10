@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_timelapse_manual_record_speed_desc">
+        <item quantity="one">Velocidad de secuencia acelerada: %d vez</item>
+        <item quantity="other">Velocidad de secuencia acelerada: %d veces</item>
+    </plurals>
+    <plurals name="capture_time_label_desc">
+        <item quantity="one">%d segundo</item>
+        <item quantity="other">%d segundos</item>
+    </plurals>
+    <plurals name="menu_has_timer">
+        <item quantity="one">%d s</item>
+        <item quantity="other">%d s</item>
+    </plurals>
+    <plurals name="more_than_max_objects_announcement">
+        <item quantity="one">Más de un objeto.</item>
+        <item quantity="other">Más de %1$d objetos.</item>
+    </plurals>
+    <plurals name="nightlapse_recording_1080p_chip">
+        <item quantity="one">%1$d s de vídeo requiere %2$d min de grabación</item>
+        <item quantity="other">%1$d s de vídeo requieren %2$d min de grabación</item>
+    </plurals>
+    <plurals name="nightlapse_recording_4k_chip">
+        <item quantity="one">%1$d s de vídeo requiere %2$d min de grabación</item>
+        <item quantity="other">%1$d s de vídeo requieren %2$d min de grabación</item>
+    </plurals>
+    <plurals name="number_of_cropped_face">
+        <item quantity="one">Una recortada.</item>
+        <item quantity="other">%d recortadas.</item>
+    </plurals>
+    <plurals name="photos_remaining">
+        <item quantity="one">Aproximadamente %s foto</item>
+        <item quantity="other">Aproximadamente %s fotos</item>
+    </plurals>
+    <plurals name="videos_remaining">
+        <item quantity="one">Aproximadamente %s minuto de vídeo</item>
+        <item quantity="other">Aproximadamente %s minutos de vídeo</item>
+    </plurals>
+</resources>

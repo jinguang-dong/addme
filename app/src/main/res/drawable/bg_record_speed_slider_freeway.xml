@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetTop="@dimen/record_speed_slider_expand_touch_area_size_freeway"
+    android:insetBottom="@dimen/record_speed_slider_expand_touch_area_size_freeway">
+    <shape android:shape="rectangle">
+        <corners android:radius="@dimen/record_speed_slider_bg_radius_freeway"/>
+        <size android:height="@dimen/record_speed_slider_height_freeway"/>
+        <solid android:color="@color/record_speed_slider_bg_color_freeway"/>
+    </shape>
+</inset>

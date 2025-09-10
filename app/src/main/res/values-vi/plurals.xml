@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_timelapse_manual_record_speed_desc">
+        <item quantity="one">Tua nhanh thời gian: tốc độ %d lần</item>
+        <item quantity="other">Tua nhanh thời gian: tốc độ %d lần</item>
+    </plurals>
+    <plurals name="capture_time_label_desc">
+        <item quantity="one">%d giây</item>
+        <item quantity="other">%d giây</item>
+    </plurals>
+    <plurals name="menu_has_timer">
+        <item quantity="one">%d giây</item>
+        <item quantity="other">%d giây</item>
+    </plurals>
+    <plurals name="more_than_max_objects_announcement">
+        <item quantity="one">Hơn một đối tượng.</item>
+        <item quantity="other">Hơn %1$d đối tượng.</item>
+    </plurals>
+    <plurals name="nightlapse_recording_1080p_chip">
+        <item quantity="one">Video có thời lượng %1$d giây yêu cầu thời gian quay là %2$d phút</item>
+        <item quantity="other">Video có thời lượng %1$d giây yêu cầu thời gian quay là %2$d phút</item>
+    </plurals>
+    <plurals name="nightlapse_recording_4k_chip">
+        <item quantity="one">Video có thời lượng %1$d giây yêu cầu thời gian quay là %2$d phút</item>
+        <item quantity="other">Video có thời lượng %1$d giây yêu cầu thời gian quay là %2$d phút</item>
+    </plurals>
+    <plurals name="number_of_cropped_face">
+        <item quantity="one">Một khuôn mặt đã bị cắt bớt.</item>
+        <item quantity="other">%d khuôn mặt đã bị cắt bớt.</item>
+    </plurals>
+    <plurals name="photos_remaining">
+        <item quantity="one">Khoảng %s ảnh</item>
+        <item quantity="other">Khoảng %s ảnh</item>
+    </plurals>
+    <plurals name="videos_remaining">
+        <item quantity="one">%s phút video</item>
+        <item quantity="other">%s phút video</item>
+    </plurals>
+</resources>

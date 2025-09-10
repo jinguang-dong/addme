@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewStub xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/ark_values"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    app:layout_constraintEnd_toEndOf="@+id/ark_values_area"
+    app:layout_constraintStart_toStartOf="@+id/ark_values_area"
+    app:layout_constraintTop_toTopOf="@+id/ark_values_area"/>

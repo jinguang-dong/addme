@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="root_vector"
+    android:height="36dp"
+    android:width="36dp"
+    android:viewportWidth="36"
+    android:viewportHeight="36">
+    <group
+        android:name="root_group"
+        android:pivotX="18"
+        android:pivotY="18">
+        <path
+            android:name="path"
+            android:fillColor="#ffffff"
+            android:pathData="@string/path_nightsight_on"
+            android:fillAlpha="1"
+            android:fillType="nonZero"/>
+    </group>
+</vector>

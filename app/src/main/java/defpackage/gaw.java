@@ -1,0 +1,285 @@
+package defpackage;
+
+import android.util.Range;
+
+/* compiled from: PG */
+/* loaded from: classes2.dex */
+public class gaw {
+    public final sbp A;
+    public final pka B;
+    public final ltf C;
+    public final int D;
+    public final boolean E;
+    public final boolean F;
+    public final boolean G;
+    public final boolean H;
+    public final boolean I;
+    public final boolean J;
+    public final boolean K;
+    public final boolean L;
+    public final ggn M;
+    public final boolean N;
+    public final boolean O;
+    public final boolean P;
+    public final rwc Q;
+    public final rwc R;
+    public final boolean S;
+    public final nkw T;
+    public final boolean U;
+    public final boolean V;
+    public final gax W;
+    public final iso X;
+    public final pjr a;
+    public final pjr b;
+    public final oxh c;
+    public final oxj d;
+    public final rwc e;
+    public final pas f;
+    public final oxp g;
+    public final rwc h;
+    public final rwc i;
+    public final rwc j;
+    public final rwc k;
+    public final rwc l;
+    public final boolean m;
+    public final Range n;
+    public final Range o;
+    public final Range p;
+    public final boolean q;
+    public final boolean r;
+    public final boolean s;
+    public final boolean t;
+    public final boolean u;
+    public final boolean v;
+    public final boolean w;
+    public final boolean x;
+    public final sbp y;
+    public final sbp z;
+
+    public gaw() {
+        throw null;
+    }
+
+    public final boolean equals(Object obj) {
+        if (obj == this) {
+            return true;
+        }
+        if (obj instanceof gaw) {
+            gaw gawVar = (gaw) obj;
+            if (this.a.equals(gawVar.a) && this.b.equals(gawVar.b) && this.X.equals(gawVar.X) && this.c.equals(gawVar.c) && this.d.equals(gawVar.d) && this.e.equals(gawVar.e) && this.f.equals(gawVar.f) && this.g.equals(gawVar.g) && this.h.equals(gawVar.h) && this.i.equals(gawVar.i) && this.j.equals(gawVar.j) && this.k.equals(gawVar.k) && this.l.equals(gawVar.l) && this.m == gawVar.m && this.n.equals(gawVar.n) && this.o.equals(gawVar.o) && this.p.equals(gawVar.p) && this.q == gawVar.q && this.r == gawVar.r && this.s == gawVar.s && this.t == gawVar.t && this.u == gawVar.u && this.v == gawVar.v && this.w == gawVar.w && this.x == gawVar.x && ujp.aH(this.y, gawVar.y) && ujp.aH(this.z, gawVar.z) && ujp.aH(this.A, gawVar.A) && this.B.equals(gawVar.B) && this.C.equals(gawVar.C) && this.D == gawVar.D && this.E == gawVar.E && this.F == gawVar.F && this.G == gawVar.G && this.H == gawVar.H && this.I == gawVar.I && this.J == gawVar.J && this.K == gawVar.K && this.L == gawVar.L && this.M.equals(gawVar.M) && this.N == gawVar.N && this.O == gawVar.O && this.P == gawVar.P && this.Q.equals(gawVar.Q) && this.R.equals(gawVar.R) && this.S == gawVar.S && this.T.equals(gawVar.T) && this.U == gawVar.U && this.V == gawVar.V && this.W.equals(gawVar.W)) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public final int hashCode() {
+        return this.W.hashCode() ^ ((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((this.a.b ^ 1000003) * 1000003) ^ this.b.b) * 1000003) ^ this.X.hashCode()) * 1000003) ^ this.c.hashCode()) * 1000003) ^ this.d.hashCode()) * 1000003) ^ this.e.hashCode()) * 1000003) ^ this.f.hashCode()) * 1000003) ^ this.g.hashCode()) * 1000003) ^ this.h.hashCode()) * 1000003) ^ this.i.hashCode()) * 1000003) ^ this.j.hashCode()) * 1000003) ^ this.k.hashCode()) * 1000003) ^ this.l.hashCode()) * 1000003) ^ (true != this.m ? 1237 : 1231)) * 1000003) ^ this.n.hashCode()) * 1000003) ^ this.o.hashCode()) * 1000003) ^ this.p.hashCode()) * 1000003) ^ (true != this.q ? 1237 : 1231)) * 1000003) ^ (true != this.r ? 1237 : 1231)) * 1000003) ^ (true != this.s ? 1237 : 1231)) * 1000003) ^ (true != this.t ? 1237 : 1231)) * 1000003) ^ (true != this.u ? 1237 : 1231)) * 1000003) ^ (true != this.v ? 1237 : 1231)) * 1000003) ^ (true != this.w ? 1237 : 1231)) * 1000003) ^ (true != this.x ? 1237 : 1231)) * 1000003) ^ this.y.hashCode()) * 1000003) ^ this.z.hashCode()) * 1000003) ^ this.A.hashCode()) * 1000003) ^ this.B.hashCode()) * 1000003) ^ this.C.hashCode()) * 1000003) ^ this.D) * 1000003) ^ (true != this.E ? 1237 : 1231)) * 1000003) ^ (true != this.F ? 1237 : 1231)) * 1000003) ^ (true != this.G ? 1237 : 1231)) * 1000003) ^ (true != this.H ? 1237 : 1231)) * 1000003) ^ 1237) * 1000003) ^ (true != this.I ? 1237 : 1231)) * 1000003) ^ (true != this.J ? 1237 : 1231)) * 1000003) ^ (true != this.K ? 1237 : 1231)) * 1000003) ^ 1237) * 1000003) ^ 1237) * 1000003) ^ (true != this.L ? 1237 : 1231)) * 1000003) ^ this.M.hashCode()) * 1000003) ^ (true != this.N ? 1237 : 1231)) * 1000003) ^ (true != this.O ? 1237 : 1231)) * 1000003) ^ (true != this.P ? 1237 : 1231)) * 1000003) ^ this.Q.hashCode()) * 1000003) ^ this.R.hashCode()) * 1000003) ^ (true != this.S ? 1237 : 1231)) * 1000003) ^ 1237) * 1000003) ^ this.T.hashCode()) * 1000003) ^ (true != this.U ? 1237 : 1231)) * 1000003) ^ (true != this.V ? 1237 : 1231)) * 1000003);
+    }
+
+    public String toString() {
+        String string = this.X.toString();
+        String string2 = this.c.toString();
+        String string3 = this.d.toString();
+        String string4 = this.e.toString();
+        String string5 = this.f.toString();
+        String string6 = this.g.toString();
+        String string7 = this.h.toString();
+        String string8 = this.i.toString();
+        String string9 = this.j.toString();
+        String string10 = this.k.toString();
+        String string11 = this.l.toString();
+        String string12 = this.n.toString();
+        String string13 = this.o.toString();
+        String string14 = this.p.toString();
+        String string15 = this.y.toString();
+        String string16 = this.z.toString();
+        String string17 = this.A.toString();
+        String string18 = this.B.toString();
+        String string19 = this.C.toString();
+        String string20 = this.M.toString();
+        String string21 = this.Q.toString();
+        String string22 = this.R.toString();
+        String string23 = this.T.toString();
+        String string24 = this.W.toString();
+        StringBuilder sb = new StringBuilder("{");
+        sb.append(this.a.a);
+        sb.append(", ");
+        sb.append(this.b.a);
+        sb.append(", ");
+        sb.append(string);
+        sb.append(", ");
+        sb.append(string2);
+        sb.append(", ");
+        sb.append(string3);
+        sb.append(", ");
+        sb.append(string4);
+        sb.append(", ");
+        sb.append(string5);
+        sb.append(", ");
+        sb.append(string6);
+        sb.append(", ");
+        sb.append(string7);
+        sb.append(", ");
+        sb.append(string8);
+        boolean z = this.m;
+        boolean z2 = this.q;
+        boolean z3 = this.r;
+        boolean z4 = this.s;
+        boolean z5 = this.t;
+        boolean z6 = this.u;
+        boolean z7 = this.v;
+        boolean z8 = this.w;
+        boolean z9 = this.x;
+        int i = this.D;
+        boolean z10 = this.E;
+        boolean z11 = this.F;
+        boolean z12 = this.G;
+        boolean z13 = this.H;
+        boolean z14 = this.I;
+        boolean z15 = this.J;
+        boolean z16 = this.K;
+        sb.append(", ");
+        sb.append(string9);
+        sb.append(", ");
+        sb.append(string10);
+        sb.append(", ");
+        sb.append(string11);
+        sb.append(", ");
+        sb.append(z);
+        sb.append(", ");
+        sb.append(string12);
+        sb.append(", ");
+        sb.append(string13);
+        sb.append(", ");
+        sb.append(string14);
+        sb.append(", ");
+        sb.append(z2);
+        sb.append(", ");
+        sb.append(z3);
+        sb.append(", ");
+        sb.append(z4);
+        sb.append(", ");
+        sb.append(z5);
+        sb.append(", ");
+        sb.append(z6);
+        sb.append(", ");
+        sb.append(z7);
+        sb.append(", ");
+        sb.append(z8);
+        sb.append(", ");
+        sb.append(z9);
+        sb.append(", ");
+        sb.append(string15);
+        sb.append(", ");
+        sb.append(string16);
+        sb.append(", ");
+        sb.append(string17);
+        sb.append(", ");
+        sb.append(string18);
+        sb.append(", ");
+        sb.append(string19);
+        sb.append(", ");
+        sb.append(i);
+        sb.append(", ");
+        sb.append(z10);
+        sb.append(", ");
+        sb.append(z11);
+        sb.append(", ");
+        sb.append(z12);
+        sb.append(", ");
+        sb.append(z13);
+        sb.append(", false, ");
+        sb.append(z14);
+        sb.append(", ");
+        sb.append(z15);
+        sb.append(", ");
+        sb.append(z16);
+        boolean z17 = this.V;
+        boolean z18 = this.U;
+        boolean z19 = this.S;
+        boolean z20 = this.P;
+        boolean z21 = this.O;
+        boolean z22 = this.N;
+        boolean z23 = this.L;
+        sb.append(", false, false, ");
+        sb.append(z23);
+        sb.append(", ");
+        sb.append(string20);
+        sb.append(", ");
+        sb.append(z22);
+        sb.append(", ");
+        sb.append(z21);
+        sb.append(", ");
+        sb.append(z20);
+        sb.append(", ");
+        sb.append(string21);
+        sb.append(", ");
+        sb.append(string22);
+        sb.append(", ");
+        sb.append(z19);
+        sb.append(", false, ");
+        sb.append(string23);
+        sb.append(", ");
+        sb.append(z18);
+        sb.append(", ");
+        sb.append(z17);
+        sb.append(", ");
+        sb.append(string24);
+        sb.append("}");
+        return sb.toString();
+    }
+
+    public gaw(pjr pjrVar, pjr pjrVar2, iso isoVar, oxh oxhVar, oxj oxjVar, rwc rwcVar, pas pasVar, oxp oxpVar, rwc rwcVar2, rwc rwcVar3, rwc rwcVar4, rwc rwcVar5, rwc rwcVar6, boolean z, Range range, Range range2, Range range3, boolean z2, boolean z3, boolean z4, boolean z5, boolean z6, boolean z7, boolean z8, boolean z9, sbp sbpVar, sbp sbpVar2, sbp sbpVar3, pka pkaVar, ltf ltfVar, int i, boolean z10, boolean z11, boolean z12, boolean z13, boolean z14, boolean z15, boolean z16, boolean z17, ggn ggnVar, boolean z18, boolean z19, boolean z20, rwc rwcVar7, rwc rwcVar8, boolean z21, nkw nkwVar, boolean z22, boolean z23, gax gaxVar) {
+        this.a = pjrVar;
+        this.b = pjrVar2;
+        this.X = isoVar;
+        this.c = oxhVar;
+        this.d = oxjVar;
+        this.e = rwcVar;
+        this.f = pasVar;
+        this.g = oxpVar;
+        this.h = rwcVar2;
+        this.i = rwcVar3;
+        this.j = rwcVar4;
+        this.k = rwcVar5;
+        this.l = rwcVar6;
+        this.m = z;
+        this.n = range;
+        this.o = range2;
+        this.p = range3;
+        this.q = z2;
+        this.r = z3;
+        this.s = z4;
+        this.t = z5;
+        this.u = z6;
+        this.v = z7;
+        this.w = z8;
+        this.x = z9;
+        this.y = sbpVar;
+        this.z = sbpVar2;
+        this.A = sbpVar3;
+        this.B = pkaVar;
+        this.C = ltfVar;
+        this.D = i;
+        this.E = z10;
+        this.F = z11;
+        this.G = z12;
+        this.H = z13;
+        this.I = z14;
+        this.J = z15;
+        this.K = z16;
+        this.L = z17;
+        this.M = ggnVar;
+        this.N = z18;
+        this.O = z19;
+        this.P = z20;
+        this.Q = rwcVar7;
+        this.R = rwcVar8;
+        this.S = z21;
+        this.T = nkwVar;
+        this.U = z22;
+        this.V = z23;
+        this.W = gaxVar;
+    }
+}

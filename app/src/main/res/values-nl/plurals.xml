@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_timelapse_manual_record_speed_desc">
+        <item quantity="one">Snelheid van timelapse: %d keer</item>
+        <item quantity="other">Snelheid van timelapse: %d keer</item>
+    </plurals>
+    <plurals name="capture_time_label_desc">
+        <item quantity="one">%d seconde</item>
+        <item quantity="other">%d seconden</item>
+    </plurals>
+    <plurals name="menu_has_timer">
+        <item quantity="one">%d s</item>
+        <item quantity="other">%d s</item>
+    </plurals>
+    <plurals name="more_than_max_objects_announcement">
+        <item quantity="one">Meer dan één object.</item>
+        <item quantity="other">Meer dan %1$d objecten.</item>
+    </plurals>
+    <plurals name="nightlapse_recording_1080p_chip">
+        <item quantity="one">Een video van %1$d s vereist een opname van %2$d min</item>
+        <item quantity="other">Een video van %1$d s vereist een opname van %2$d min</item>
+    </plurals>
+    <plurals name="nightlapse_recording_4k_chip">
+        <item quantity="one">Een video van %1$d s vereist een opname van %2$d min</item>
+        <item quantity="other">Een video van %1$d s vereist een opname van %2$d min</item>
+    </plurals>
+    <plurals name="number_of_cropped_face">
+        <item quantity="one">Eén bijgesneden.</item>
+        <item quantity="other">%d bijgesneden.</item>
+    </plurals>
+    <plurals name="photos_remaining">
+        <item quantity="one">Ongeveer %s foto</item>
+        <item quantity="other">Ongeveer %s foto&apos;s</item>
+    </plurals>
+    <plurals name="videos_remaining">
+        <item quantity="one">%s minuut aan video&apos;s</item>
+        <item quantity="other">%s minuten aan video&apos;s</item>
+    </plurals>
+</resources>

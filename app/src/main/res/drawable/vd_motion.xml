@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="root_vector"
+    android:height="36dp"
+    android:width="36dp"
+    android:viewportWidth="36"
+    android:viewportHeight="36">
+    <group
+        android:name="root_group"
+        android:pivotX="18"
+        android:pivotY="18">
+        <clip-path
+            android:name="clip_path"
+            android:pathData="@string/path_motion_clip_on"/>
+        <path
+            android:name="circle_path"
+            android:fillColor="#ffffff"
+            android:pathData="M28 18C28 23.5228 23.5228 28 18 28C12.4772 28 8 23.5228 8 18C8 12.4772 12.4772 8 18 8C23.5228 8 28 12.4772 28 18Z"
+            android:fillAlpha="1"
+            android:fillType="nonZero"/>
+    </group>
+</vector>

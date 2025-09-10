@@ -1,0 +1,14 @@
+package defpackage;
+
+/* compiled from: PG */
+/* loaded from: classes.dex */
+public abstract class qhp implements qhi {
+    @Override // defpackage.qhi
+    public final int c() {
+        return 2;
+    }
+
+    public final String toString() {
+        return b();
+    }
+}

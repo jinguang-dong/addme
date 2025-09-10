@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:id="@+id/cottage_preview_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:textSize="24sp"
+        android:textColor="?attr/colorOnSurface"
+        android:layout_gravity="center"
+        android:id="@+id/overlay_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/preview_overlay_rotation"
+        android:drawableTop="@drawable/ic_screen_rotation_alt_32"
+        android:drawablePadding="16dp"
+        android:fontFamily="@font/google_sans"
+        android:drawableTint="?attr/colorOnSurface"
+        android:textFontWeight="400"/>
+</FrameLayout>

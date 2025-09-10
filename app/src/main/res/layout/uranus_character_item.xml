@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.camera.jupiter.uranus.UranusCharacterItem xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/character_item_container"
+    android:background="@color/character_item_background_color"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="@dimen/character_item_radius"
+    app:cardElevation="0dp">
+    <ImageView
+        android:id="@+id/character_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"/>
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/download_icon"
+        android:visibility="gone"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/quantum_gm_ic_file_download_vd_theme_24"
+        android:tint="?attr/colorPrimary"
+        android:importantForAccessibility="no"/>
+    <ProgressBar
+        android:layout_gravity="center"
+        android:id="@+id/download_progress_bar"
+        android:visibility="gone"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:indeterminate="true"
+        android:importantForAccessibility="no"
+        android:indeterminateTint="?attr/colorPrimary"/>
+</com.google.android.apps.camera.jupiter.uranus.UranusCharacterItem>

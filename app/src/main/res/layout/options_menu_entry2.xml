@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.camera.optionsbar.view.OptionsEntryButtonBc25Impl xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/options_entry_button"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:backgroundTint="@color/camera_protection_background_opaque"
+    app:icon="@drawable/gs_settings_fill1_vd_theme_24"
+    app:iconTint="@android:color/white"
+    app:materialSizeOverlay="@style/SizeOverlay.GoogleMaterial3Expressive.Button.IconButton.Small"
+    style="@style/Widget.GoogleMaterial3Expressive.Button.IconButton.Filled"/>

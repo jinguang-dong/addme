@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_timelapse_manual_record_speed_desc">
+        <item quantity="one">타임랩스 속도 비율 %d</item>
+        <item quantity="other">타임랩스 속도 비율 %d</item>
+    </plurals>
+    <plurals name="capture_time_label_desc">
+        <item quantity="one">%d초</item>
+        <item quantity="other">%d초</item>
+    </plurals>
+    <plurals name="menu_has_timer">
+        <item quantity="one">%d초</item>
+        <item quantity="other">%d초</item>
+    </plurals>
+    <plurals name="more_than_max_objects_announcement">
+        <item quantity="one">1개 초과.</item>
+        <item quantity="other">%1$d개 초과.</item>
+    </plurals>
+    <plurals name="nightlapse_recording_1080p_chip">
+        <item quantity="one">%1$d초 길이의 동영상을 제작하려면 %2$d분 길이의 녹화 파일이 필요합니다.</item>
+        <item quantity="other">%1$d초 길이의 동영상을 제작하려면 %2$d분 길이의 녹화 파일이 필요합니다.</item>
+    </plurals>
+    <plurals name="nightlapse_recording_4k_chip">
+        <item quantity="one">%1$d초 길이의 동영상을 제작하려면 %2$d분 길이의 녹화 파일이 필요합니다.</item>
+        <item quantity="other">%1$d초 길이의 동영상을 제작하려면 %2$d분 길이의 녹화 파일이 필요합니다.</item>
+    </plurals>
+    <plurals name="number_of_cropped_face">
+        <item quantity="one">1개 잘림.</item>
+        <item quantity="other">%d개 잘림.</item>
+    </plurals>
+    <plurals name="photos_remaining">
+        <item quantity="one">사진 약 %s장</item>
+        <item quantity="other">사진 약 %s장</item>
+    </plurals>
+    <plurals name="videos_remaining">
+        <item quantity="one">동영상 %s분</item>
+        <item quantity="other">동영상 %s분</item>
+    </plurals>
+</resources>

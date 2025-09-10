@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_timelapse_manual_record_speed_desc">
+        <item quantity="one">%d-kordse kiirusega kiirendatud video</item>
+        <item quantity="other">%d-kordse kiirusega kiirendatud video</item>
+    </plurals>
+    <plurals name="capture_time_label_desc">
+        <item quantity="one">%d sekund</item>
+        <item quantity="other">%d sekundit</item>
+    </plurals>
+    <plurals name="menu_has_timer">
+        <item quantity="one">%d s</item>
+        <item quantity="other">%d s</item>
+    </plurals>
+    <plurals name="more_than_max_objects_announcement">
+        <item quantity="one">Rohkem kui üks objekt.</item>
+        <item quantity="other">Rohkem kui %1$d objekti.</item>
+    </plurals>
+    <plurals name="nightlapse_recording_1080p_chip">
+        <item quantity="one">%1$d-sekundiline video nõuab %2$d-minutilist salvestist</item>
+        <item quantity="other">%1$d-sekundiline video nõuab %2$d-minutilist salvestist</item>
+    </plurals>
+    <plurals name="nightlapse_recording_4k_chip">
+        <item quantity="one">%1$d-sekundiline video nõuab %2$d-minutilist salvestist</item>
+        <item quantity="other">%1$d-sekundiline video nõuab %2$d-minutilist salvestist</item>
+    </plurals>
+    <plurals name="number_of_cropped_face">
+        <item quantity="one">Üks on kärbitud.</item>
+        <item quantity="other">%d on kärbitud.</item>
+    </plurals>
+    <plurals name="photos_remaining">
+        <item quantity="one">Umbes %s foto</item>
+        <item quantity="other">Umbes %s fotot</item>
+    </plurals>
+    <plurals name="videos_remaining">
+        <item quantity="one">%s minut videoid</item>
+        <item quantity="other">%s minutit videoid</item>
+    </plurals>
+</resources>

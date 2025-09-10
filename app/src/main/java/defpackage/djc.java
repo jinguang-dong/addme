@@ -1,0 +1,17 @@
+package defpackage;
+
+import com.google.ar.core.R;
+
+/* compiled from: PG */
+/* loaded from: classes2.dex */
+public final class djc {
+    public static final int[] a = {R.attr.anchorAngleDegrees, R.attr.anchorPosition, R.attr.clockwise};
+    public static final int[] b = {R.attr.layout_rotate, R.attr.layout_valign, R.attr.layout_weight};
+    public static final int[] c = {R.attr.boxedEdges, R.attr.layout_box, R.attr.layout_boxedEdges};
+    public static final int[] d = {android.R.attr.src, R.attr.background_border_cap, R.attr.background_border_color, R.attr.background_border_width, R.attr.background_color, R.attr.background_radius, R.attr.background_radius_percent, R.attr.background_radius_pressed, R.attr.background_radius_pressed_percent, R.attr.background_shadow_width, R.attr.circle_border_cap, R.attr.circle_border_color, R.attr.circle_border_width, R.attr.circle_color, R.attr.circle_padding, R.attr.circle_radius, R.attr.circle_radius_percent, R.attr.circle_radius_pressed, R.attr.circle_radius_pressed_percent, R.attr.clip_dimen, R.attr.image_circle_percentage, R.attr.image_horizontal_offcenter_percentage, R.attr.image_tint, R.attr.img_circle_percentage, R.attr.img_horizontal_offset_percentage, R.attr.img_padding, R.attr.img_tint, R.attr.shadow_width, R.attr.square_dimen};
+    public static final int[] e = {R.attr.backgroundColor, R.attr.colorSchemeColors, R.attr.indeterminate, R.attr.strokeWidth};
+    public static final int[] f = {android.R.attr.textAppearance, android.R.attr.textSize, android.R.attr.typeface, android.R.attr.textStyle, android.R.attr.textColor, android.R.attr.ellipsize, android.R.attr.text, android.R.attr.fontFamily, android.R.attr.letterSpacing, android.R.attr.fontFeatureSettings, android.R.attr.fontVariationSettings, android.R.attr.textFontWeight, R.attr.anchorAngleDegrees, R.attr.anchorPosition, R.attr.clockwise, R.attr.maxSweepDegrees, R.attr.minSweepDegrees};
+    public static final int[] g = {R.attr.pageIndicatorDotColor, R.attr.pageIndicatorDotColorSelected, R.attr.pageIndicatorDotFadeInDuration, R.attr.pageIndicatorDotFadeOutDelay, R.attr.pageIndicatorDotFadeOutDuration, R.attr.pageIndicatorDotFadeWhenIdle, R.attr.pageIndicatorDotRadius, R.attr.pageIndicatorDotRadiusSelected, R.attr.pageIndicatorDotShadowColor, R.attr.pageIndicatorDotShadowDx, R.attr.pageIndicatorDotShadowDy, R.attr.pageIndicatorDotShadowRadius, R.attr.pageIndicatorDotSpacing, R.attr.wsPageIndicatorDotColor, R.attr.wsPageIndicatorDotColorSelected, R.attr.wsPageIndicatorDotFadeInDuration, R.attr.wsPageIndicatorDotFadeOutDelay, R.attr.wsPageIndicatorDotFadeOutDuration, R.attr.wsPageIndicatorDotFadeWhenIdle, R.attr.wsPageIndicatorDotRadius, R.attr.wsPageIndicatorDotRadiusSelected, R.attr.wsPageIndicatorDotShadowColor, R.attr.wsPageIndicatorDotShadowDx, R.attr.wsPageIndicatorDotShadowDy, R.attr.wsPageIndicatorDotShadowRadius, R.attr.wsPageIndicatorDotSpacing};
+    public static final int[] h = {android.R.attr.textSize, android.R.attr.typeface, android.R.attr.textStyle, android.R.attr.textColor, android.R.attr.textColorHint, android.R.attr.textColorLink, android.R.attr.shadowColor, android.R.attr.shadowDx, android.R.attr.shadowDy, android.R.attr.shadowRadius, android.R.attr.fontFamily, android.R.attr.letterSpacing, android.R.attr.fontFeatureSettings, android.R.attr.fontVariationSettings, android.R.attr.textFontWeight, R.attr.fontFamily, R.attr.fontVariationSettings, R.attr.textAllCaps, R.attr.textLocale};
+    public static final int[] i = {android.R.attr.textAppearance};
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_timelapse_manual_record_speed_desc">
+        <item quantity="one">ინტერვალური გადაღება %d დროის სიჩქარე</item>
+        <item quantity="other">ინტერვალური გადაღება %d დროის სიჩქარე</item>
+    </plurals>
+    <plurals name="capture_time_label_desc">
+        <item quantity="one">%d წამი</item>
+        <item quantity="other">%d წამი</item>
+    </plurals>
+    <plurals name="menu_has_timer">
+        <item quantity="one">%d წმ</item>
+        <item quantity="other">%d წმ</item>
+    </plurals>
+    <plurals name="more_than_max_objects_announcement">
+        <item quantity="one">ერთზე მეტი ობიექტი.</item>
+        <item quantity="other">%1$d-ზე მეტი ობიექტი.</item>
+    </plurals>
+    <plurals name="nightlapse_recording_1080p_chip">
+        <item quantity="one">%1$d წამიანი ვიდეო მოითხოვს %2$d წუთიან ჩაწერას</item>
+        <item quantity="other">%1$d წამიანი ვიდეო მოითხოვს %2$d წუთიან ჩაწერას</item>
+    </plurals>
+    <plurals name="nightlapse_recording_4k_chip">
+        <item quantity="one">%1$d წამიანი ვიდეო მოითხოვს %2$d წუთიან ჩაწერას</item>
+        <item quantity="other">%1$d წამიანი ვიდეო მოითხოვს %2$d წუთიან ჩაწერას</item>
+    </plurals>
+    <plurals name="number_of_cropped_face">
+        <item quantity="one">ერთი მოჭრილი.</item>
+        <item quantity="other">%d ჩამოიჭრა.</item>
+    </plurals>
+    <plurals name="photos_remaining">
+        <item quantity="one">დაახლოებით %s ფოტო</item>
+        <item quantity="other">დაახლოებით %s ფოტო</item>
+    </plurals>
+    <plurals name="videos_remaining">
+        <item quantity="one">ვიდეოს %s წუთი</item>
+        <item quantity="other">ვიდეოს %s წუთი</item>
+    </plurals>
+</resources>

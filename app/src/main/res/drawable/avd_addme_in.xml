@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/vd_addme">
+    <target
+        android:name="circle_path"
+        android:animation="@drawable/_avd_addme_in__0_res_0x7f0800a0"/>
+    <target
+        android:name="triangle_path"
+        android:animation="@drawable/_avd_addme_in__1_res_0x7f0800a1"/>
+    <target
+        android:name="triangle_clip"
+        android:animation="@drawable/_avd_addme_in__2_res_0x7f0800a2"/>
+    <target
+        android:name="sparkle_group"
+        android:animation="@drawable/_avd_addme_in__3_res_0x7f0800a3"/>
+    <target
+        android:name="root_vector"
+        android:animation="@animator/shutter_icons_fade_in"/>
+</animated-vector>

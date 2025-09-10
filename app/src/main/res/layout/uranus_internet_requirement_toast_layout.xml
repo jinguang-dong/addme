@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:id="@+id/internet_requirement_toast_layout"
+    android:background="@drawable/uranus_download_toast_background"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/toast_container_height"
+    android:paddingStart="12dp"
+    android:paddingEnd="12dp">
+    <TextView
+        android:textSize="14sp"
+        android:textColor="#ffffff"
+        android:layout_gravity="center_vertical"
+        android:id="@+id/chip_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/uranus_internet_requirement_dialog_desc"
+        android:drawablePadding="8dp"
+        android:drawableStart="@drawable/ic_uranus_toast_icon"
+        android:fontFamily="@font/google_sans"/>
+    <TextView
+        android:textSize="14sp"
+        android:textColor="?attr/colorPrimary"
+        android:gravity="center"
+        android:layout_gravity="center_vertical"
+        android:id="@+id/retry_button"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:minWidth="@dimen/toast_retry_button_min_width"
+        android:text="@string/uranus_internet_requirement_dialog_button_desc"
+        android:fontFamily="@font/google_sans"
+        android:layout_marginStart="@dimen/toast_retry_button_start_margin"/>
+</LinearLayout>

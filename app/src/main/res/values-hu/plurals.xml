@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_timelapse_manual_record_speed_desc">
+        <item quantity="one">A time-lapse sebessége ennyiszer gyorsabb: %d</item>
+        <item quantity="other">A time-lapse sebessége ennyiszer gyorsabb: %d</item>
+    </plurals>
+    <plurals name="capture_time_label_desc">
+        <item quantity="one">%d másodperc</item>
+        <item quantity="other">%d másodperc</item>
+    </plurals>
+    <plurals name="menu_has_timer">
+        <item quantity="one">%d mp</item>
+        <item quantity="other">%d mp</item>
+    </plurals>
+    <plurals name="more_than_max_objects_announcement">
+        <item quantity="one">Több mint egy tárgy.</item>
+        <item quantity="other">Több mint %1$d tárgy.</item>
+    </plurals>
+    <plurals name="nightlapse_recording_1080p_chip">
+        <item quantity="one">%1$d másodpercnyi videóhoz %2$d percnyi felvétel szükséges</item>
+        <item quantity="other">%1$d másodpercnyi videóhoz %2$d percnyi felvétel szükséges</item>
+    </plurals>
+    <plurals name="nightlapse_recording_4k_chip">
+        <item quantity="one">%1$d másodpercnyi videóhoz %2$d percnyi felvétel szükséges</item>
+        <item quantity="other">%1$d másodpercnyi videóhoz %2$d percnyi felvétel szükséges</item>
+    </plurals>
+    <plurals name="number_of_cropped_face">
+        <item quantity="one">1 körbevágva.</item>
+        <item quantity="other">%d körbevágva.</item>
+    </plurals>
+    <plurals name="photos_remaining">
+        <item quantity="one">Körülbelül %s fotó</item>
+        <item quantity="other">Körülbelül %s fotó</item>
+    </plurals>
+    <plurals name="videos_remaining">
+        <item quantity="one">%s percnyi videó</item>
+        <item quantity="other">%s percnyi videó</item>
+    </plurals>
+</resources>

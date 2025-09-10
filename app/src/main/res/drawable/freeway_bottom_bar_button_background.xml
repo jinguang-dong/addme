@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <size
+        android:height="@dimen/freeway_bottom_bar_side_button_side_length"
+        android:width="@dimen/freeway_bottom_bar_side_button_side_length"/>
+    <corners android:radius="@dimen/freeway_bottom_bar_side_button_corner_radius"/>
+</shape>

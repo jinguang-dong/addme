@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_timelapse_manual_record_speed_desc">
+        <item quantity="one">Timelapse la viteza %d</item>
+        <item quantity="few">Timelapse la viteza %d</item>
+        <item quantity="other">Timelapse la viteza %d</item>
+    </plurals>
+    <plurals name="capture_time_label_desc">
+        <item quantity="one">%d secundă</item>
+        <item quantity="few">%d secunde</item>
+        <item quantity="other">%d de secunde</item>
+    </plurals>
+    <plurals name="menu_has_timer">
+        <item quantity="one">%d s</item>
+        <item quantity="few">%d s</item>
+        <item quantity="other">%d s</item>
+    </plurals>
+    <plurals name="more_than_max_objects_announcement">
+        <item quantity="one">Mai multe obiecte.</item>
+        <item quantity="few">Peste %1$d obiecte.</item>
+        <item quantity="other">Peste %1$d de obiecte.</item>
+    </plurals>
+    <plurals name="nightlapse_recording_1080p_chip">
+        <item quantity="one">Pentru un videoclip de %1$d sec. este necesară o înregistrare de %2$d min.</item>
+        <item quantity="few">Pentru un videoclip de %1$d sec. este necesară o înregistrare de %2$d min.</item>
+        <item quantity="other">Pentru un videoclip de %1$d sec. este necesară o înregistrare de %2$d min.</item>
+    </plurals>
+    <plurals name="nightlapse_recording_4k_chip">
+        <item quantity="one">Pentru un videoclip de %1$d sec. este necesară o înregistrare de %2$d min.</item>
+        <item quantity="few">Pentru un videoclip de %1$d sec. este necesară o înregistrare de %2$d min.</item>
+        <item quantity="other">Pentru un videoclip de %1$d sec. este necesară o înregistrare de %2$d min.</item>
+    </plurals>
+    <plurals name="number_of_cropped_face">
+        <item quantity="one">Unul decupat.</item>
+        <item quantity="few">%d decupate.</item>
+        <item quantity="other">%d decupate.</item>
+    </plurals>
+    <plurals name="photos_remaining">
+        <item quantity="one">Aproximativ %s fotografie</item>
+        <item quantity="few">Aproximativ %s fotografii</item>
+        <item quantity="other">Aproximativ %s de fotografii</item>
+    </plurals>
+    <plurals name="videos_remaining">
+        <item quantity="one">%s minut din videoclipuri</item>
+        <item quantity="few">%s minute din videoclipuri</item>
+        <item quantity="other">%s de minute din videoclipuri</item>
+    </plurals>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/_countdown_animation_9__0_res_0x7f0800f9">
+    <target
+        android:name="main"
+        android:animation="@drawable/_countdown_animation_9__1_res_0x7f0800fa"/>
+</animated-vector>

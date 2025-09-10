@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <inset
+            android:insetTop="@dimen/bottom_panel_tab_vertical_inset"
+            android:insetBottom="@dimen/bottom_panel_tab_vertical_inset">
+            <shape>
+                <solid android:color="?attr/colorPrimary"/>
+                <corners android:radius="@dimen/bottom_panel_tab_selected_radius"/>
+            </shape>
+        </inset>
+    </item>
+</layer-list>

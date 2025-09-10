@@ -1,0 +1,67 @@
+package defpackage;
+
+/* compiled from: PG */
+/* loaded from: classes2.dex */
+public enum tgc implements tpk {
+    NULL_ID(0),
+    b(1),
+    PANOPTIC_SEGMENTER_ID(2),
+    CNF_LANDMARKER_ID(3),
+    FACE_TO_PERSON_SEGMENTER_ID(4),
+    MOVENET_MODEL_ID(5),
+    MOVENET_LABEL_MAP_ID(6),
+    FACE_DETECTOR_ID(7),
+    FACE_DETECTOR_ANCHORS_ID(8),
+    LOOKNET_CONFIG_ID(9),
+    LOOKNET_MODEL_ID(10),
+    FOREGROUND_SEGMENTER_ID(11),
+    FACE_MESH_ID(12),
+    INPAINTER_ID(13),
+    PORTRAIT_MATTING_ID(14),
+    PORTRAIT_MATTING_TPU_ID(15),
+    HEAD_BLENDER_ID(16),
+    PANOPTIC_SEGMENTER_CUSTOM_OPS_ID(17),
+    LANCET_MODEL_ID(18),
+    CHOOSE_AND_FUSE_CUSTOM_OPS_ID(19),
+    FACE_TO_PERSON_SEGMENTER_CUSTOM_OPS_ID(20),
+    FACE_MESH_CUSTOM_OPS_ID(21),
+    FACE_DETECTOR_CUSTOM_OPS_ID(22),
+    SHADOW_SEGMENTER_ID(23),
+    PERSON_DETECTOR_MODEL_300_ID(24),
+    PERSON_DETECTOR_MODEL_1200_ID(25),
+    A(26),
+    PERSON_DETECTOR_ANCHOR_2_ID(27),
+    FG_COLOR_ESTIMATOR_ID(28),
+    FG_COLOR_ESTIMATOR_TPU_ID(29),
+    ALL_IN_FILM_BLENDER_ID(30),
+    MONOCULAR_DEPTH_ID(31),
+    HOI_CLASSIFIER_ID(32),
+    ATTACHED_OBJECTS_DETECTOR_ID(33),
+    ATTACHED_OBJECTS_SEGMENTER_ID(34),
+    PEOPLE_DEPTH_ORDERING_ID(35),
+    PWC_RAFT_OPTICAL_FLOW_ID(36),
+    RAID_MATTING_512_ID(37),
+    RAID_MATTING_768_ID(38),
+    RAID_MATTING_768_TPU_ID(39),
+    FOREGROUND_SEGMENTER_TPU_ID(40),
+    SHADOW_SEGMENTER_TPU_ID(41),
+    ATTACHED_OBJECTS_SEGMENTER_TPU_ID(42),
+    HOI_CLASSIFIER_TPU_ID(45),
+    ATTACHED_OBJECTS_DETECTOR_TPU_ID(46);
+
+    public final int T;
+
+    tgc(int i) {
+        this.T = i;
+    }
+
+    @Override // defpackage.tpk
+    public final int a() {
+        return this.T;
+    }
+
+    @Override // java.lang.Enum
+    public final String toString() {
+        return Integer.toString(this.T);
+    }
+}

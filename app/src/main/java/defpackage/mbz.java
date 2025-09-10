@@ -1,0 +1,13 @@
+package defpackage;
+
+/* compiled from: PG */
+/* loaded from: classes.dex */
+public enum mbz {
+    UNINITIALIZED,
+    PREINITIALIZED,
+    INITIALIZED,
+    STARTED,
+    PROCESSING,
+    STOPPED,
+    ERROR
+}

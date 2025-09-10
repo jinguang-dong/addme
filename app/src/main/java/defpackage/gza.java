@@ -1,0 +1,108 @@
+package defpackage;
+
+import com.google.android.apps.camera.backup.cNHl.ibINv;
+
+/* compiled from: PG */
+/* loaded from: classes.dex */
+public final class gza {
+    public static final gzg a;
+    public static final gzg b;
+    public static final gzg c;
+    public static final gzg d;
+    public static final gzg e;
+    public static final gzg f;
+    public static final gzg g;
+    public static final gzg h;
+    public static final gzg i;
+    public static final gzg j;
+    public static final gzg k;
+    public static final gzg l;
+    public static final gzg m;
+    public static final gzg n;
+    public static final gzg o;
+    public static final gzg p;
+    public static final gzg q;
+    public static final gzg r;
+    public static final gzg s;
+    public static final gzg t;
+    public static final gzg u;
+
+    static {
+        gzh gzhVar = new gzh();
+        gzhVar.b = ibINv.OcCeIymmxpjs;
+        a = gzhVar.i();
+        gzh gzhVar2 = new gzh();
+        gzhVar2.b = "camera.immersive_cropped_aspect_ratio";
+        b = gzhVar2.i();
+        gzh gzhVar3 = new gzh();
+        gzhVar3.b = "camera.default_immersive";
+        c = gzhVar3.i();
+        gzh gzhVar4 = new gzh();
+        gzhVar4.b = "camera.dynamic_sensor_orientation";
+        d = gzhVar4.i();
+        gzh gzhVar5 = new gzh();
+        gzhVar5.b = "camera.dynamic_front_4K";
+        e = gzhVar5.i();
+        gzh gzhVar6 = new gzh();
+        gzhVar6.b = "camera.jarvis";
+        f = gzhVar6.i();
+        gzh gzhVar7 = new gzh();
+        gzhVar7.b = "camera.enable_uranus";
+        g = gzhVar7.i();
+        gzh gzhVar8 = new gzh();
+        gzhVar8.b = "enable_uranus_joy";
+        gzhVar8.b("MadeYouLook");
+        h = gzhVar8.i();
+        gzh gzhVar9 = new gzh();
+        gzhVar9.b = "camera.enable_uranus_debug";
+        gzhVar9.e();
+        gzh gzhVar10 = new gzh();
+        gzhVar10.b = "camera.enable_uranus_sound";
+        i = gzhVar10.f();
+        gzh gzhVar11 = new gzh();
+        gzhVar11.b = "camera.enable_uranus_front_outer_camera";
+        j = gzhVar11.f();
+        gzh gzhVar12 = new gzh();
+        gzhVar12.b = "camera.uranus_debug.idle_lower_threshold";
+        k = gzhVar12.h();
+        gzh gzhVar13 = new gzh();
+        gzhVar13.b = "camera.uranus_debug.idle_upper_threshold";
+        l = gzhVar13.h();
+        gzh gzhVar14 = new gzh();
+        gzhVar14.b = "camera.uranus_debug.hint_lower_threshold";
+        m = gzhVar14.h();
+        gzh gzhVar15 = new gzh();
+        gzhVar15.b = "camera.uranus_debug.hint_upper_threshold";
+        n = gzhVar15.h();
+        gzh gzhVar16 = new gzh();
+        gzhVar16.b = "camera.uranus_debug.surprise_lower_threshold";
+        o = gzhVar16.h();
+        gzh gzhVar17 = new gzh();
+        gzhVar17.b = "camera.uranus_debug.surprise_upper_threshold";
+        p = gzhVar17.h();
+        gzh gzhVar18 = new gzh();
+        gzhVar18.b = "camera.enable_saturn";
+        q = gzhVar18.i();
+        gzh gzhVar19 = new gzh();
+        gzhVar19.b = "camera.enable_saturn_in_portrait_mode";
+        r = gzhVar19.i();
+        gzh gzhVar20 = new gzh();
+        gzhVar20.b = "camera.enable_saturn_in_video_mode";
+        s = gzhVar20.i();
+        gzh gzhVar21 = new gzh();
+        gzhVar21.b = "jupiter_enable";
+        t = gzhVar21.i();
+        gzh gzhVar22 = new gzh();
+        gzhVar22.b = "camera.unfold_preference";
+        gzhVar22.o();
+        gzh gzhVar23 = new gzh();
+        gzhVar23.b = "camera.enable_buzzard";
+        gzhVar23.o();
+        gzh gzhVar24 = new gzh();
+        gzhVar24.b = "camera.buzzard_ratio";
+        u = gzhVar24.h();
+        gzh gzhVar25 = new gzh();
+        gzhVar25.b = "camera.buzzard_cache_all_shot";
+        gzhVar25.e();
+    }
+}

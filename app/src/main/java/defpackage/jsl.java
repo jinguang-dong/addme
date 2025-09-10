@@ -1,0 +1,24 @@
+package defpackage;
+
+/* compiled from: PG */
+/* loaded from: classes2.dex */
+public enum jsl {
+    UNKNOWN,
+    MAX_LENGTH,
+    ADAPTIVE_DISTANCE,
+    TOTAL_SENSITIVITY,
+    EXPOSURE_TIME,
+    CROP_REGION,
+    SUBJECT_MOTION,
+    MOTION_BLUR,
+    OUT_OF_FOCUS,
+    MAX_LENGTH_AFTER_SHUTDOWN,
+    LONG_SHOT_SHUTTER_RELEASE,
+    LONG_SHOT_MINIMAL_LENGTH,
+    FIXED_LENGTH,
+    COOKIE_CUTTER_SHUTTING_DOWN,
+    ROTATION,
+    MASH_ENDED,
+    TEST_REASON,
+    MV_BUTTON_MASH
+}

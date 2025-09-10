@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:top="@dimen/toast_background_vertical_padding"
+        android:bottom="@dimen/toast_background_vertical_padding">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/toast_background_radius"/>
+            <size android:height="@dimen/toast_background_height"/>
+            <solid android:color="#66000000"/>
+        </shape>
+    </item>
+</layer-list>

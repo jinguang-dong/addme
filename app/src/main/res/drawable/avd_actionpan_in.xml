@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/vd_actionpan">
+    <target
+        android:name="body_path"
+        android:animation="@drawable/_avd_actionpan_in__0_res_0x7f08008e"/>
+    <target
+        android:name="body_group"
+        android:animation="@drawable/_avd_actionpan_in__1_res_0x7f08008f"/>
+    <target
+        android:name="head_group"
+        android:animation="@drawable/_avd_actionpan_in__2_res_0x7f080090"/>
+    <target
+        android:name="line1_path"
+        android:animation="@drawable/_avd_actionpan_in__3_res_0x7f080091"/>
+    <target
+        android:name="line1_group"
+        android:animation="@drawable/_avd_actionpan_in__4_res_0x7f080092"/>
+    <target
+        android:name="line2_path"
+        android:animation="@drawable/_avd_actionpan_in__5_res_0x7f080093"/>
+    <target
+        android:name="line2_group"
+        android:animation="@drawable/_avd_actionpan_in__6_res_0x7f080094"/>
+    <target
+        android:name="line3_path"
+        android:animation="@drawable/_avd_actionpan_in__7_res_0x7f080095"/>
+    <target
+        android:name="line3_group"
+        android:animation="@drawable/_avd_actionpan_in__8_res_0x7f080096"/>
+    <target
+        android:name="root_vector"
+        android:animation="@animator/shutter_icons_fade_in"/>
+</animated-vector>

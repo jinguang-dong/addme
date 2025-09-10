@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_timelapse_manual_record_speed_desc">
+        <item quantity="one">縮時錄影速度：%d 倍</item>
+        <item quantity="other">縮時錄影速度：%d 倍</item>
+    </plurals>
+    <plurals name="capture_time_label_desc">
+        <item quantity="one">%d 秒</item>
+        <item quantity="other">%d 秒</item>
+    </plurals>
+    <plurals name="menu_has_timer">
+        <item quantity="one">%d 秒</item>
+        <item quantity="other">%d 秒</item>
+    </plurals>
+    <plurals name="more_than_max_objects_announcement">
+        <item quantity="one">偵測到多個物體。</item>
+        <item quantity="other">偵測到超過 %1$d 個物體。</item>
+    </plurals>
+    <plurals name="nightlapse_recording_1080p_chip">
+        <item quantity="one">如要拍出 %1$d 秒鐘影片，至少需要錄製 %2$d 分鐘</item>
+        <item quantity="other">如要拍出 %1$d 秒鐘影片，至少需要錄製 %2$d 分鐘</item>
+    </plurals>
+    <plurals name="nightlapse_recording_4k_chip">
+        <item quantity="one">如要拍出 %1$d 秒鐘影片，至少需要錄製 %2$d 分鐘</item>
+        <item quantity="other">如要拍出 %1$d 秒鐘影片，至少需要錄製 %2$d 分鐘</item>
+    </plurals>
+    <plurals name="number_of_cropped_face">
+        <item quantity="one">其中有 1 張臉孔未完整入鏡。</item>
+        <item quantity="other">其中有 %d 張臉孔未完整入鏡。</item>
+    </plurals>
+    <plurals name="photos_remaining">
+        <item quantity="one">還可拍大約 %s 張相片</item>
+        <item quantity="other">還可拍大約 %s 張相片</item>
+    </plurals>
+    <plurals name="videos_remaining">
+        <item quantity="one">還可錄製 %s 分鐘的影片</item>
+        <item quantity="other">還可錄製 %s 分鐘的影片</item>
+    </plurals>
+</resources>

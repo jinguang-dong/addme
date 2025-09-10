@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:anroid="http://schemas.android.com/aapt"
+    android:name="root_vector"
+    android:height="36dp"
+    android:width="36dp"
+    android:viewportWidth="36"
+    android:viewportHeight="36">
+    <group
+        android:name="person_group"
+        android:pivotX="18"
+        android:pivotY="18">
+        <path
+            android:name="person_path"
+            android:fillColor="#ffffff"
+            android:pathData="M18 20C16.9 20 15.9583 19.6083 15.175 18.825C14.3917 18.0417 14 17.1 14 16C14 14.9 14.3917 13.9583 15.175 13.175C15.9583 12.3917 16.9 12 18 12C19.1 12 20.0417 12.3917 20.825 13.175C21.6083 13.9583 22 14.9 22 16C22 17.1 21.6083 18.0417 20.825 18.825C20.0417 19.6083 19.1 20 18 20ZM10 26V25.225C10 24.6583 10.1417 24.1333 10.425 23.65C10.7083 23.1667 11.1 22.8 11.6 22.55C12.45 22.1167 13.4083 21.75 14.475 21.45C15.5583 21.15 16.7333 21 18 21C19.2667 21 20.4333 21.15 21.5 21.45C22.5833 21.75 23.55 22.1167 24.4 22.55C24.9 22.8 25.2917 23.1667 25.575 23.65C25.8583 24.1333 26 24.6583 26 25.225V26C26 26.2833 25.9 26.525 25.7 26.725C25.5167 26.9083 25.2833 27 25 27H11C10.7167 27 10.475 26.9083 10.275 26.725C10.0917 26.525 10 26.2833 10 26Z"
+            android:fillAlpha="1"
+            android:fillType="nonZero"/>
+    </group>
+    <group
+        android:name="lines_group"
+        android:pivotX="18"
+        android:pivotY="18">
+        <clip-path
+            android:name="lines_clip"
+            android:pathData="M27 9H9V23.1587C9.00651 23.1457 9.01308 23.1327 9.01972 23.1198C9.35562 22.4653 9.81996 21.9688 10.4127 21.6302C11.4204 21.0434 12.5633 20.5 13.8279 20.0938C13.9509 20.0548 14.0756 20.0177 14.2017 19.9825C13.1458 18.9783 12.4876 17.5598 12.4876 15.9875C12.4876 12.943 14.9556 10.475 18.0001 10.475C21.0445 10.475 23.5126 12.943 23.5126 15.9875C23.5126 17.561 22.8534 18.9804 21.796 19.9848C21.9175 20.0193 22.0376 20.0556 22.1562 20.0938C23.4406 20.5 24.5799 20.9601 25.5876 21.5469C26.1804 21.8854 26.6447 22.4653 26.9806 23.1198C26.9871 23.1325 26.9936 23.1453 27 23.158V9Z"/>
+        <group anroid:name="lines_subgroup">
+            <path
+                android:name="lines_path"
+                android:pathData="@string/path_portrait_bg_center"
+                android:strokeColor="#ffffff"
+                android:strokeWidth="1.6"
+                android:strokeAlpha="1"/>
+        </group>
+    </group>
+</vector>

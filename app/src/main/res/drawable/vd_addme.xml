@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:anroid="http://schemas.android.com/aapt"
+    android:name="root_vector"
+    android:height="36dp"
+    android:width="36dp"
+    android:viewportWidth="36"
+    android:viewportHeight="36">
+    <group
+        android:name="sparkle_group"
+        android:pivotX="24.5"
+        android:pivotY="11.5">
+        <path
+            android:name="sparkle_path"
+            android:fillColor="#ffffff"
+            android:pathData="M24.5 16C24.5 14.75 24.0583 13.6917 23.175 12.825C22.3083 11.9417 21.25 11.5 20 11.5C21.25 11.5 22.3083 11.0667 23.175 10.2C24.0583 9.31667 24.5 8.25 24.5 7C24.5 8.25 24.9333 9.31667 25.8 10.2C26.6833 11.0667 27.75 11.5 29 11.5C27.75 11.5 26.6833 11.9417 25.8 12.825C24.9333 13.6917 24.5 14.75 24.5 16Z"
+            android:fillAlpha="1"
+            android:fillType="nonZero"/>
+    </group>
+    <group android:name="circle_group">
+        <path
+            android:name="circle_path"
+            android:fillColor="#ffffff"
+            android:pathData="@string/path_addme_circle_on"
+            android:fillAlpha="1"
+            android:fillType="evenOdd"/>
+    </group>
+    <group android:name="triangle_group">
+        <clip-path
+            android:name="triangle_clip"
+            android:pathData="@string/path_addme_clip_on"/>
+        <path
+            android:name="triangle_path"
+            android:fillColor="#ffffff"
+            android:pathData="@string/path_addme_triangle_on"
+            android:fillAlpha="1"
+            android:fillType="evenOdd"/>
+    </group>
+</vector>

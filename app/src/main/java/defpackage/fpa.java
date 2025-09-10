@@ -1,0 +1,16 @@
+package defpackage;
+
+/* compiled from: PG */
+/* loaded from: classes.dex */
+public enum fpa {
+    UNKNOWN,
+    EXCESSIVE_MOTION,
+    INSUFFICIENT_FEATURES,
+    INSUFFICIENT_LIGHT,
+    INITIALIZING,
+    NOT_RELIABLE_TOO_FEW_LANDMARKS,
+    NOT_RELIABLE_LANDMARKS_TOO_FAR,
+    NOT_RELIABLE_MISSING_MAP,
+    PERSISTENT_NOT_RELIABLE,
+    TRACKING
+}

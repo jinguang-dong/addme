@@ -1,0 +1,95 @@
+package defpackage;
+
+/* compiled from: PG */
+/* loaded from: classes.dex */
+public final class gzy {
+    public static final Float a = Float.valueOf(1.0f);
+    public static final Float b = Float.valueOf(5.0f);
+    public static final gzi c;
+    public static final gzi d;
+    public static final gzi e;
+    public static final gzi f;
+    public static final gzi g;
+    public static final gzi h;
+    public static final gzi i;
+    public static final gzg j;
+    public static final gzg k;
+    public static final gzg l;
+    public static final gzg m;
+    public static final gzg n;
+    public static final gzg o;
+    public static final gzg p;
+    public static final gzg q;
+    public static final gzg r;
+    public static final gzg s;
+    public static final gzg t;
+
+    static {
+        gzh gzhVar = new gzh();
+        gzhVar.b = "camera.enable_taxi";
+        j = gzhVar.i();
+        gzh gzhVar2 = new gzh();
+        gzhVar2.b = "camera.enable_taxi_video";
+        k = gzhVar2.i();
+        gzh gzhVar3 = new gzh();
+        gzhVar3.b = "camera.enable_macro_focus_timelapse";
+        gzhVar3.o();
+        gzh gzhVar4 = new gzh();
+        gzhVar4.b = "camera.enable_limo";
+        l = gzhVar4.i();
+        gzh gzhVar5 = new gzh();
+        gzhVar5.b = "camera.force_taxi_state";
+        gzhVar5.e = scn.J(-1, 0, 1, 2);
+        c = gzhVar5.a();
+        gzh gzhVar6 = new gzh();
+        gzhVar6.b = "camera.taxi_close_object_threshold_in_cm";
+        gzhVar6.e = rzm.a(seo.e(0, 100), rzv.a);
+        d = gzhVar6.a();
+        gzh gzhVar7 = new gzh();
+        gzhVar7.b = "camera.taxi_close_object_frames_to_consider";
+        gzhVar7.e = rzm.a(seo.e(0, 100), rzv.a);
+        e = gzhVar7.a();
+        gzh gzhVar8 = new gzh();
+        gzhVar8.b = "camera.taxi_uw_frames_to_consider";
+        gzhVar8.e = rzm.a(seo.e(0, 100), rzv.a);
+        f = gzhVar8.a();
+        gzh gzhVar9 = new gzh();
+        gzhVar9.b = "camera.taxi_max_zoom";
+        m = gzhVar9.h();
+        gzh gzhVar10 = new gzh();
+        gzhVar10.b = "camera.taxi_max_zoom_for_lobster";
+        n = gzhVar10.h();
+        gzh gzhVar11 = new gzh();
+        gzhVar11.b = "camera.taxi_scene_change_monitoring_delay_ms";
+        g = gzhVar11.a();
+        gzh gzhVar12 = new gzh();
+        gzhVar12.b = "camera.enable_tele_taxi";
+        gzhVar12.o();
+        gzh gzhVar13 = new gzh();
+        gzhVar13.b = "camera.enable_taxi_quick_settings";
+        o = gzhVar13.i();
+        gzh gzhVar14 = new gzh();
+        gzhVar14.b = "camera.enable_macro_focus_badging";
+        p = gzhVar14.i();
+        gzh gzhVar15 = new gzh();
+        gzhVar15.b = "camera.hide_macro_focus_ring_icon";
+        q = gzhVar15.i();
+        gzh gzhVar16 = new gzh();
+        gzhVar16.b = "camera.taxi_remove_force_on_transition_on_click";
+        r = gzhVar16.i();
+        gzh gzhVar17 = new gzh();
+        gzhVar17.b = "camera.taxi_active_af_frames_to_consider";
+        gzhVar17.e = rzm.a(seo.e(0, 100), rzv.a);
+        h = gzhVar17.a();
+        gzh gzhVar18 = new gzh();
+        gzhVar18.b = "camera.taxi_converged_af_frames_to_consider";
+        gzhVar18.e = rzm.a(seo.e(0, 100), rzv.a);
+        i = gzhVar18.a();
+        gzh gzhVar19 = new gzh();
+        gzhVar19.b = "camera.enable_taxi_minibar";
+        s = gzhVar19.i();
+        gzh gzhVar20 = new gzh();
+        gzhVar20.b = "camera.taxi_fade_with_af";
+        t = gzhVar20.i();
+    }
+}

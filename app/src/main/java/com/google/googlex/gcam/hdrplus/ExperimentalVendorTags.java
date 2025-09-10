@@ -1,0 +1,64 @@
+package com.google.googlex.gcam.hdrplus;
+
+/* compiled from: PG */
+/* loaded from: classes2.dex */
+final class ExperimentalVendorTags {
+    public float[] lensDistortionCoefficientsHighQuality = new float[0];
+    public float[] lensDistortionOpticalCenterHighQuality = new float[0];
+    public float[] lensDistortionNormalizationHighQuality = new float[0];
+    public int[] lensDistortionActiveRectangleHighQuality = new int[0];
+    public int[] lensDistortionValidRectangleHighQuality = new int[0];
+    public int[] faceLandmarkCount = new int[0];
+    public byte[] faceLandmarkIds = new byte[0];
+    public float[] faceLandmarkXy = new float[0];
+    public float[] faceOrientation = new float[0];
+    public boolean hasMeshWarpIsIdentityTransform = false;
+    public boolean meshWarpIsIdentityTransform = false;
+    public float[] meshWarpData = new float[0];
+    public int[] meshWarpSize = new int[0];
+    public int[] meshWarpCropRegion = new int[0];
+    public float[] liveHdrSettings = new float[0];
+    public float[] gcamAeOutput = new float[0];
+    public boolean hasFloatSensorSensitivity = false;
+    public float floatSensorSensitivity = 0.0f;
+    public boolean hasFlickerFreqHighRes = false;
+    public int flickerFreqHighRes = 0;
+    public boolean hasFlickerConfHighRes = false;
+    public int flickerConfHighRes = 0;
+    public boolean hasFaceDetectionTimestamp = false;
+    public long faceDetectionTimestamp = 0;
+    public boolean hasFloatSensorMaxAnalogSensitivity = false;
+    public float floatSensorMaxAnalogSensitivity = 0.0f;
+    public float[] floatSensorInfoSensitivityRange = new float[0];
+    public byte[] segmentationMaskPortrait = new byte[0];
+    public long[] oisTimestamps = new long[0];
+    public int[] oisShiftDacX = new int[0];
+    public int[] oisShiftDacY = new int[0];
+    public boolean hasMeshWarpIsForwardMesh = false;
+    public boolean meshWarpIsForwardMesh = false;
+    public byte[] afMultiDepthFaceDeblur = new byte[0];
+    public byte[] afTargetFocus = new byte[0];
+    public int[] faceRectangleSkinArea = new int[0];
+    public boolean hasGcamAeSkipped = false;
+    public boolean gcamAeSkipped = false;
+    public float[] segmentationAwbParams = new float[0];
+    public boolean hasIdcgEnabled = false;
+    public boolean idcgEnabled = false;
+    public byte[] clutIds = new byte[0];
+    public float[] clutWeights = new float[0];
+    public int[] truelightFaceIds = new int[0];
+    public float[] truelightMonkSkinTone = new float[0];
+    public byte[] aeDebugSaliencyHeatMap = new byte[0];
+    public float[] aeSaliencyCroppedRegion = new float[0];
+    public boolean peonyEnabled = false;
+    public float[] peonyData = new float[0];
+    public boolean freesiaEnabled = false;
+    public byte[] freesiaIds = new byte[0];
+    public float[] freesiaGains = new float[0];
+    public float[] freesiaCcms = new float[0];
+    public long[] statsAfActuatorDacTimestamps = new long[0];
+    public int[] statsAfActuatorDacReadouts = new int[0];
+    public float[] statsAfActuatorDacDiopters = new float[0];
+    public boolean hasCisTemperature = false;
+    public int cisTemperature = 0;
+}

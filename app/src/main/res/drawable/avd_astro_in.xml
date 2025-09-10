@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/vd_astro">
+    <target
+        android:name="main_group"
+        android:animation="@animator/scale_up"/>
+    <target
+        android:name="main_group"
+        android:animation="@drawable/_avd_astro_in__0_res_0x7f0800a8"/>
+    <target
+        android:name="bottom_group"
+        android:animation="@animator/scale_up_delay1"/>
+    <target
+        android:name="bottom_group"
+        android:animation="@drawable/_avd_astro_in__1_res_0x7f0800a9"/>
+    <target
+        android:name="top_group"
+        android:animation="@animator/scale_up_delay1"/>
+    <target
+        android:name="top_group"
+        android:animation="@drawable/_avd_astro_in__2_res_0x7f0800aa"/>
+    <target
+        android:name="root_vector"
+        android:animation="@animator/shutter_icons_fade_in"/>
+</animated-vector>

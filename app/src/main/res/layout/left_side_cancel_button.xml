@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="center"
+    android:id="@+id/left_side_cancel_button"
+    android:background="@color/transparent"
+    android:padding="8dp"
+    android:visibility="gone"
+    android:layout_width="@dimen/recording_control_button_diameter"
+    android:layout_height="@dimen/recording_control_button_diameter"
+    android:src="@drawable/ic_close_white"
+    android:scaleType="fitCenter"
+    android:tint="#ffffff"
+    android:contentDescription="@string/cancel_button_description"
+    android:alpha="0"
+    android:elevation="@dimen/side_control_base_elevation"
+    android:stateListAnimator="@anim/side_control_state_list"/>

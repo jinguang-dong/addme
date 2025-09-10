@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="root_vector"
+    android:height="36dp"
+    android:width="36dp"
+    android:alpha="1"
+    android:viewportWidth="36"
+    android:viewportHeight="36">
+    <group android:name="root_group">
+        <group
+            android:name="path_group"
+            android:translateX="18"
+            android:translateY="18">
+            <path
+                android:name="path"
+                android:fillColor="#ffffff"
+                android:pathData="@string/path_panorama_on"
+                android:fillAlpha="1"
+                android:fillType="nonZero"/>
+        </group>
+    </group>
+</vector>

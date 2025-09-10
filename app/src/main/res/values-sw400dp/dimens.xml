@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottom_bar_content_size_small">86dp</dimen>
+    <dimen name="mode_chip_inset_horizontal">4dp</dimen>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_timelapse_manual_record_speed_desc">
+        <item quantity="one">ពេលដើរលឿន %d ល្បឿនពេលវេលា</item>
+        <item quantity="other">ពេលដើរលឿន %d ល្បឿនពេលវេលា</item>
+    </plurals>
+    <plurals name="capture_time_label_desc">
+        <item quantity="one">%d វិនាទី</item>
+        <item quantity="other">%d វិនាទី</item>
+    </plurals>
+    <plurals name="menu_has_timer">
+        <item quantity="one">%d វិ</item>
+        <item quantity="other">%d វិ</item>
+    </plurals>
+    <plurals name="more_than_max_objects_announcement">
+        <item quantity="one">ច្រើនជាងវត្ថុមួយ។</item>
+        <item quantity="other">ច្រើនជាងវត្ថុ %1$d។</item>
+    </plurals>
+    <plurals name="nightlapse_recording_1080p_chip">
+        <item quantity="one">វីដេអូ %1$d វិនាទីតម្រូវឱ្យមានការថត %2$d នាទី</item>
+        <item quantity="other">វីដេអូ %1$d វិនាទីតម្រូវឱ្យមានការថត %2$d នាទី</item>
+    </plurals>
+    <plurals name="nightlapse_recording_4k_chip">
+        <item quantity="one">វីដេអូ %1$d វិនាទីតម្រូវឱ្យមានការថត %2$d នាទី</item>
+        <item quantity="other">វីដេអូ %1$d វិនាទីតម្រូវឱ្យមានការថត %2$d នាទី</item>
+    </plurals>
+    <plurals name="number_of_cropped_face">
+        <item quantity="one">បានច្រឹបមួយ។</item>
+        <item quantity="other">បានច្រឹប %d។</item>
+    </plurals>
+    <plurals name="photos_remaining">
+        <item quantity="one">រូបថតប្រហែល %s សន្លឹក</item>
+        <item quantity="other">រូបថតប្រហែល %s សន្លឹក</item>
+    </plurals>
+    <plurals name="videos_remaining">
+        <item quantity="one">វីដេអូ %s នាទី</item>
+        <item quantity="other">វីដេអូ %s នាទី</item>
+    </plurals>
+</resources>

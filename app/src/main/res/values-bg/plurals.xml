@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_timelapse_manual_record_speed_desc">
+        <item quantity="one">%d път скоростта на цайтрафера</item>
+        <item quantity="other">%d пъти скоростта на цайтрафера</item>
+    </plurals>
+    <plurals name="capture_time_label_desc">
+        <item quantity="one">%d секунда</item>
+        <item quantity="other">%d секунди</item>
+    </plurals>
+    <plurals name="menu_has_timer">
+        <item quantity="one">%d сек</item>
+        <item quantity="other">%d сек</item>
+    </plurals>
+    <plurals name="more_than_max_objects_announcement">
+        <item quantity="one">Повече от един обект.</item>
+        <item quantity="other">Повече от %1$d обекта.</item>
+    </plurals>
+    <plurals name="nightlapse_recording_1080p_chip">
+        <item quantity="one">За %1$d-секунден видеоклип е необходим %2$d-минутен запис</item>
+        <item quantity="other">За %1$d-секунден видеоклип е необходим %2$d-минутен запис</item>
+    </plurals>
+    <plurals name="nightlapse_recording_4k_chip">
+        <item quantity="one">За %1$d-секунден видеоклип е необходим %2$d-минутен запис</item>
+        <item quantity="other">За %1$d-секунден видеоклип е необходим %2$d-минутен запис</item>
+    </plurals>
+    <plurals name="number_of_cropped_face">
+        <item quantity="one">Подрязано е едно.</item>
+        <item quantity="other">Подрязани са %d.</item>
+    </plurals>
+    <plurals name="photos_remaining">
+        <item quantity="one">Около %s снимка</item>
+        <item quantity="other">Около %s снимка</item>
+    </plurals>
+    <plurals name="videos_remaining">
+        <item quantity="one">Видеоклипове с продължителност%s минута</item>
+        <item quantity="other">Видеоклипове с продължителност %s минути</item>
+    </plurals>
+</resources>

@@ -1,0 +1,16 @@
+package defpackage;
+
+/* compiled from: PG */
+/* loaded from: classes2.dex */
+public enum isj {
+    BACKGROUND,
+    CHARACTER_MAIN_IDLE_LOOP,
+    CHARACTER_SUB_IDLE_LOOP,
+    d,
+    CHARACTER_MAIN_HINT,
+    CHARACTER_SUB_HINT,
+    CHARACTER_MAIN_HINT_EXIT,
+    CHARACTER_MAIN_SURPRISE_ENTER,
+    CHARACTER_MAIN_SURPRISE_LOOP,
+    CHARACTER_MAIN_SURPRISE_EXIT
+}

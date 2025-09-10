@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:clickable="true"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:minWidth="@dimen/mode_chip_minWidth">
+    <View
+        android:id="@+id/guidance_background"
+        android:background="@drawable/guided_chip"
+        android:visibility="invisible"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <TextView
+        android:textSize="@dimen/mode_chip_font_size"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:id="@+id/mode_chip_text"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:minWidth="@dimen/mode_chip_minWidth"
+        android:fontFamily="@font/google_sans_medium"
+        android:letterSpacing="@dimen/mode_chip_letter_spacing"/>
+</FrameLayout>

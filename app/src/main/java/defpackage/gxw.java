@@ -1,0 +1,173 @@
+package defpackage;
+
+import java.util.List;
+
+/* compiled from: PG */
+/* loaded from: classes2.dex */
+public final class gxw extends gxl {
+    public static final gxw a = new gxw();
+    private static final List b;
+
+    static {
+        tpc tpcVarM = gyd.a.m();
+        tpcVarM.getClass();
+        gsn.w(gyb.FACING_BACK, tpcVarM);
+        gsn.t(tpcVarM);
+        Float fValueOf = Float.valueOf(0.670443f);
+        Float fValueOf2 = Float.valueOf(1.0f);
+        Float fValueOf3 = Float.valueOf(2.0f);
+        Float fValueOf4 = Float.valueOf(4.3f);
+        sbp sbpVarO = sbp.o(fValueOf, fValueOf2, fValueOf3, fValueOf4);
+        sbpVarO.getClass();
+        tpcVarM.v(sbpVarO);
+        gsn.s(tpcVarM);
+        Float fValueOf5 = Float.valueOf(10.0f);
+        Float fValueOf6 = Float.valueOf(20.0f);
+        sbp sbpVarQ = sbp.q(fValueOf, fValueOf2, fValueOf3, fValueOf4, fValueOf5, fValueOf6);
+        sbpVarQ.getClass();
+        tpcVarM.u(sbpVarQ);
+        tpc tpcVarM2 = gyd.a.m();
+        tpcVarM2.getClass();
+        gsn.w(gyb.FACING_FRONT, tpcVarM2);
+        gsn.t(tpcVarM2);
+        Float fValueOf7 = Float.valueOf(1.4f);
+        sbp sbpVarM = sbp.m(fValueOf2, fValueOf7);
+        sbpVarM.getClass();
+        tpcVarM2.v(sbpVarM);
+        gsn.s(tpcVarM2);
+        Float fValueOf8 = Float.valueOf(4.0f);
+        sbp sbpVarN = sbp.n(fValueOf2, fValueOf7, fValueOf8);
+        sbpVarN.getClass();
+        tpcVarM2.u(sbpVarN);
+        tpc tpcVarM3 = gyd.a.m();
+        tpcVarM3.getClass();
+        gsn.w(gyb.FACING_BACK, tpcVarM3);
+        gsn.u(ssc.PORTRAIT, tpcVarM3);
+        gsn.v(1.5172f, tpcVarM3);
+        gsn.x(1.5172f, tpcVarM3);
+        gsn.t(tpcVarM3);
+        Float fValueOf9 = Float.valueOf(1.5172f);
+        Float fValueOf10 = Float.valueOf(3.0344f);
+        sbp sbpVarM2 = sbp.m(fValueOf9, fValueOf10);
+        sbpVarM2.getClass();
+        tpcVarM3.v(sbpVarM2);
+        gsn.s(tpcVarM3);
+        sbp sbpVarN2 = sbp.n(fValueOf9, fValueOf10, Float.valueOf(7.586f));
+        sbpVarN2.getClass();
+        tpcVarM3.u(sbpVarN2);
+        tpc tpcVarM4 = gyd.a.m();
+        tpcVarM4.getClass();
+        gsn.w(gyb.FACING_BACK, tpcVarM4);
+        gsn.u(ssc.VIDEO_CAPTURE, tpcVarM4);
+        gsn.t(tpcVarM4);
+        sbp sbpVarN3 = sbp.n(fValueOf, fValueOf2, fValueOf3);
+        sbpVarN3.getClass();
+        tpcVarM4.v(sbpVarN3);
+        gsn.s(tpcVarM4);
+        sbp sbpVarO2 = sbp.o(fValueOf, fValueOf2, fValueOf3, fValueOf6);
+        sbpVarO2.getClass();
+        tpcVarM4.u(sbpVarO2);
+        tpc tpcVarM5 = gyd.a.m();
+        tpcVarM5.getClass();
+        gsn.w(gyb.FACING_BACK, tpcVarM5);
+        gsn.u(ssc.CINEMATIC_PAN, tpcVarM5);
+        gsn.t(tpcVarM5);
+        sbp sbpVarN4 = sbp.n(fValueOf, fValueOf2, fValueOf3);
+        sbpVarN4.getClass();
+        tpcVarM5.v(sbpVarN4);
+        gsn.s(tpcVarM5);
+        sbp sbpVarO3 = sbp.o(fValueOf, fValueOf2, fValueOf3, fValueOf6);
+        sbpVarO3.getClass();
+        tpcVarM5.u(sbpVarO3);
+        tpc tpcVarM6 = gyd.a.m();
+        tpcVarM6.getClass();
+        gsn.w(gyb.FACING_BACK, tpcVarM6);
+        gsn.u(ssc.TIMELAPSE, tpcVarM6);
+        gsn.t(tpcVarM6);
+        sbp sbpVarN5 = sbp.n(fValueOf, fValueOf2, fValueOf3);
+        sbpVarN5.getClass();
+        tpcVarM6.v(sbpVarN5);
+        gsn.s(tpcVarM6);
+        sbp sbpVarO4 = sbp.o(fValueOf, fValueOf2, fValueOf3, fValueOf6);
+        sbpVarO4.getClass();
+        tpcVarM6.u(sbpVarO4);
+        tpc tpcVarM7 = gyd.a.m();
+        tpcVarM7.getClass();
+        gsn.w(gyb.FACING_FRONT, tpcVarM7);
+        gsn.u(ssc.PHOTO_CAPTURE, tpcVarM7);
+        gsn.v(1.4f, tpcVarM7);
+        gsn.x(1.4f, tpcVarM7);
+        gsn.t(tpcVarM7);
+        sbp sbpVarM3 = sbp.m(fValueOf2, fValueOf7);
+        sbpVarM3.getClass();
+        tpcVarM7.v(sbpVarM3);
+        gsn.s(tpcVarM7);
+        sbp sbpVarN6 = sbp.n(fValueOf2, fValueOf7, fValueOf4);
+        sbpVarN6.getClass();
+        tpcVarM7.u(sbpVarN6);
+        tpc tpcVarM8 = gyd.a.m();
+        tpcVarM8.getClass();
+        gsn.w(gyb.FACING_FRONT, tpcVarM8);
+        gsn.u(ssc.MOTION_LANDSCAPE, tpcVarM8);
+        gsn.x(1.4f, tpcVarM8);
+        gsn.t(tpcVarM8);
+        sbp sbpVarM4 = sbp.m(fValueOf2, fValueOf7);
+        sbpVarM4.getClass();
+        tpcVarM8.v(sbpVarM4);
+        gsn.s(tpcVarM8);
+        sbp sbpVarN7 = sbp.n(fValueOf2, fValueOf7, fValueOf4);
+        sbpVarN7.getClass();
+        tpcVarM8.u(sbpVarN7);
+        tpc tpcVarM9 = gyd.a.m();
+        tpcVarM9.getClass();
+        gsn.w(gyb.FACING_FRONT, tpcVarM9);
+        gsn.u(ssc.MOTION_ACTION_PAN, tpcVarM9);
+        gsn.v(1.4f, tpcVarM9);
+        gsn.x(1.4f, tpcVarM9);
+        gsn.t(tpcVarM9);
+        sbp sbpVarM5 = sbp.m(fValueOf2, fValueOf7);
+        sbpVarM5.getClass();
+        tpcVarM9.v(sbpVarM5);
+        gsn.s(tpcVarM9);
+        sbp sbpVarN8 = sbp.n(fValueOf2, fValueOf7, fValueOf4);
+        sbpVarN8.getClass();
+        tpcVarM9.u(sbpVarN8);
+        tpc tpcVarM10 = gyd.a.m();
+        tpcVarM10.getClass();
+        gsn.w(gyb.FACING_FRONT, tpcVarM10);
+        gsn.u(ssc.NIGHT_SIGHT, tpcVarM10);
+        gsn.v(1.4f, tpcVarM10);
+        gsn.x(1.4f, tpcVarM10);
+        gsn.t(tpcVarM10);
+        sbp sbpVarM6 = sbp.m(fValueOf2, fValueOf7);
+        sbpVarM6.getClass();
+        tpcVarM10.v(sbpVarM6);
+        gsn.s(tpcVarM10);
+        sbp sbpVarN9 = sbp.n(fValueOf2, fValueOf7, fValueOf4);
+        sbpVarN9.getClass();
+        tpcVarM10.u(sbpVarN9);
+        tpc tpcVarM11 = gyd.a.m();
+        tpcVarM11.getClass();
+        gsn.w(gyb.FACING_FRONT, tpcVarM11);
+        gsn.u(ssc.PORTRAIT, tpcVarM11);
+        gsn.v(1.4f, tpcVarM11);
+        gsn.x(1.4f, tpcVarM11);
+        gsn.t(tpcVarM11);
+        sbp sbpVarM7 = sbp.m(fValueOf2, fValueOf7);
+        sbpVarM7.getClass();
+        tpcVarM11.v(sbpVarM7);
+        gsn.s(tpcVarM11);
+        sbp sbpVarN10 = sbp.n(fValueOf2, fValueOf7, fValueOf8);
+        sbpVarN10.getClass();
+        tpcVarM11.u(sbpVarN10);
+        b = rnt.ae(new gyd[]{gsn.q(tpcVarM), gsn.q(tpcVarM2), gsn.q(tpcVarM3), gsn.q(tpcVarM4), gsn.q(tpcVarM5), gsn.q(tpcVarM6), gsn.q(tpcVarM7), gsn.q(tpcVarM8), gsn.q(tpcVarM9), gsn.q(tpcVarM10), gsn.q(tpcVarM11)});
+    }
+
+    private gxw() {
+    }
+
+    @Override // defpackage.gxl
+    public final List a() {
+        return b;
+    }
+}

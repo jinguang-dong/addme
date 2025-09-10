@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+        android:textAppearance="?attr/textAppearanceBody2"
+        android:textColor="?attr/colorOnSurface"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/description"
+        android:padding="0px"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:maxWidth="@dimen/bottom_sheet_text_max_width"
+        android:text="@string/rear_camera_selfie_unavailable_description"
+        android:layout_marginHorizontal="24dp"/>
+</merge>

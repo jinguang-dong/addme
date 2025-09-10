@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.apps.camera.manual.panel.ManualPanelItemContainer xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:id="@+id/panel_item_container"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <FrameLayout
+        android:id="@+id/panel_item_frame"
+        android:layout_width="@dimen/panel_item_size"
+        android:layout_height="@dimen/panel_item_size"
+        android:layout_marginTop="@dimen/panel_item_margin">
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@+id/panel_item_image"
+            android:background="@drawable/manual_control_panel_item_button_background_freeway"
+            android:layout_width="@dimen/panel_item_button_radius"
+            android:layout_height="@dimen/panel_item_button_radius"
+            android:scaleType="center"
+            android:contentDescription="@null"/>
+    </FrameLayout>
+    <TextView
+        android:textAppearance="?attr/textAppearanceLabelSmall"
+        android:textSize="@dimen/panel_item_name_text_size"
+        android:id="@+id/panel_item_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/panel_item_margin"
+        android:maxWidth="@dimen/panel_item_name_max_width"
+        android:textAlignment="center"/>
+</com.google.android.apps.camera.manual.panel.ManualPanelItemContainer>

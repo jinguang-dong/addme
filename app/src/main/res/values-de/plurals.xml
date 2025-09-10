@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_timelapse_manual_record_speed_desc">
+        <item quantity="one">Zeitraffer: %d-fache Geschwindigkeit</item>
+        <item quantity="other">Zeitraffer: %d-fache Geschwindigkeit</item>
+    </plurals>
+    <plurals name="capture_time_label_desc">
+        <item quantity="one">%d Sekunde</item>
+        <item quantity="other">%d Sekunden</item>
+    </plurals>
+    <plurals name="menu_has_timer">
+        <item quantity="one">%d Sek.</item>
+        <item quantity="other">%d Sek.</item>
+    </plurals>
+    <plurals name="more_than_max_objects_announcement">
+        <item quantity="one">Mehr als ein Objekt.</item>
+        <item quantity="other">Mehr als %1$d Objekte.</item>
+    </plurals>
+    <plurals name="nightlapse_recording_1080p_chip">
+        <item quantity="one">Für ein Video von %1$d Sekunde ist eine Aufnahme von %2$d Minute erforderlich</item>
+        <item quantity="other">Für ein Video von %1$d Sekunden ist eine Aufnahme von %2$d Minuten erforderlich</item>
+    </plurals>
+    <plurals name="nightlapse_recording_4k_chip">
+        <item quantity="one">Für ein Video von %1$d Sekunde ist eine Aufnahme von %2$d Minute erforderlich</item>
+        <item quantity="other">Für ein Video von %1$d Sekunden ist eine Aufnahme von %2$d Minuten erforderlich</item>
+    </plurals>
+    <plurals name="number_of_cropped_face">
+        <item quantity="one">Eins zugeschnitten.</item>
+        <item quantity="other">%d zugeschnitten.</item>
+    </plurals>
+    <plurals name="photos_remaining">
+        <item quantity="one">Etwa %s Foto</item>
+        <item quantity="other">Etwa %s Fotos</item>
+    </plurals>
+    <plurals name="videos_remaining">
+        <item quantity="one">%s Minute Videomaterial</item>
+        <item quantity="other">%s Minuten Videomaterial</item>
+    </plurals>
+</resources>

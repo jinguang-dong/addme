@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_timelapse_manual_record_speed_desc">
+        <item quantity="one">La velocitat de la filmació a intervals és de %d</item>
+        <item quantity="other">La velocitat de la filmació a intervals és de %d</item>
+    </plurals>
+    <plurals name="capture_time_label_desc">
+        <item quantity="one">%d segon</item>
+        <item quantity="other">%d segons</item>
+    </plurals>
+    <plurals name="menu_has_timer">
+        <item quantity="one">%d s</item>
+        <item quantity="other">%d s</item>
+    </plurals>
+    <plurals name="more_than_max_objects_announcement">
+        <item quantity="one">Més d&apos;un objecte.</item>
+        <item quantity="other">Més de %1$d objectes.</item>
+    </plurals>
+    <plurals name="nightlapse_recording_1080p_chip">
+        <item quantity="one">Un vídeo de %1$d s requereix %2$d min de gravació</item>
+        <item quantity="other">Un vídeo de %1$d s requereix %2$d min de gravació</item>
+    </plurals>
+    <plurals name="nightlapse_recording_4k_chip">
+        <item quantity="one">Un vídeo de %1$d s requereix %2$d min de gravació</item>
+        <item quantity="other">Un vídeo de %1$d s requereix %2$d min de gravació</item>
+    </plurals>
+    <plurals name="number_of_cropped_face">
+        <item quantity="one">S&apos;ha retallat un.</item>
+        <item quantity="other">%d s&apos;han retallat.</item>
+    </plurals>
+    <plurals name="photos_remaining">
+        <item quantity="one">Aproximadament %s foto</item>
+        <item quantity="other">Aproximadament %s fotos</item>
+    </plurals>
+    <plurals name="videos_remaining">
+        <item quantity="one">%s minut de vídeo</item>
+        <item quantity="other">%s minuts de vídeo</item>
+    </plurals>
+</resources>

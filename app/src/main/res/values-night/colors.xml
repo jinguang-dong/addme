@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="banner_accent_attention_high">#f28b82</color>
+    <color name="banner_accent_attention_low">#81c995</color>
+    <color name="banner_accent_attention_medium">#fdd663</color>
+    <color name="banner_background_attention_high">#3b2d2c</color>
+    <color name="banner_background_attention_low">#2b3328</color>
+    <color name="banner_background_attention_medium">#333121</color>
+    <color name="settingslib_button_ripple">@color/settingslib_ripple_material_light</color>
+    <color name="settingslib_colorBackgroundLevel_high">@color/m3_ref_palette_red60</color>
+    <color name="settingslib_colorBackgroundLevel_low">@color/m3_ref_palette_green70</color>
+    <color name="settingslib_dialog_colorError">#f28b82</color>
+    <color name="settingslib_materialColorOnPrimary">@android:color/system_on_primary_dark</color>
+    <color name="settingslib_materialColorOnPrimaryContainer">@android:color/system_on_primary_container_dark</color>
+    <color name="settingslib_materialColorOnSecondaryContainer">@android:color/system_on_secondary_container_dark</color>
+    <color name="settingslib_materialColorOnSurface">@android:color/system_on_surface_dark</color>
+    <color name="settingslib_materialColorOnSurfaceInverse">@android:color/system_on_surface_light</color>
+    <color name="settingslib_materialColorOnSurfaceVariant">@android:color/system_on_surface_variant_dark</color>
+    <color name="settingslib_materialColorOutline">@android:color/system_outline_dark</color>
+    <color name="settingslib_materialColorOutlineVariant">@android:color/system_outline_variant_dark</color>
+    <color name="settingslib_materialColorPrimary">@android:color/system_primary_dark</color>
+    <color name="settingslib_materialColorPrimaryContainer">@android:color/system_primary_container_dark</color>
+    <color name="settingslib_materialColorSecondary">@android:color/system_secondary_dark</color>
+    <color name="settingslib_materialColorSecondaryContainer">@android:color/system_secondary_container_dark</color>
+    <color name="settingslib_materialColorSurfaceBright">@android:color/system_surface_bright_dark</color>
+    <color name="settingslib_materialColorSurfaceContainer">@android:color/system_surface_container_dark</color>
+    <color name="settingslib_materialColorSurfaceContainerHigh">@android:color/system_surface_container_high_dark</color>
+    <color name="settingslib_materialColorSurfaceContainerHighest">@android:color/system_surface_container_highest_dark</color>
+    <color name="settingslib_materialColorSurfaceContainerLow">@android:color/system_surface_container_low_dark</color>
+    <color name="settingslib_materialColorSurfaceDim">@android:color/system_surface_dim_dark</color>
+    <color name="settingslib_materialColorSurfaceVariant">@android:color/system_surface_variant_dark</color>
+</resources>

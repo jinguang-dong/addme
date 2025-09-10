@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_timelapse_manual_record_speed_desc">
+        <item quantity="one">Інтервальна зйомка з %d-кратним прискоренням</item>
+        <item quantity="few">Інтервальна зйомка з %d-кратним прискоренням</item>
+        <item quantity="many">Інтервальна зйомка з %d-кратним прискоренням</item>
+        <item quantity="other">Інтервальна зйомка з %d-кратним прискоренням</item>
+    </plurals>
+    <plurals name="capture_time_label_desc">
+        <item quantity="one">%d секунда</item>
+        <item quantity="few">%d секунди</item>
+        <item quantity="many">%d секунд</item>
+        <item quantity="other">%d секунди</item>
+    </plurals>
+    <plurals name="menu_has_timer">
+        <item quantity="one">%d секунда</item>
+        <item quantity="few">%d секунди</item>
+        <item quantity="many">%d секунд</item>
+        <item quantity="other">%d секунди</item>
+    </plurals>
+    <plurals name="more_than_max_objects_announcement">
+        <item quantity="one">Більше ніж %1$d об’єкт.</item>
+        <item quantity="few">Більше ніж %1$d об’єкти.</item>
+        <item quantity="many">Більше ніж %1$d об’єктів.</item>
+        <item quantity="other">Більше ніж %1$d об’єкта.</item>
+    </plurals>
+    <plurals name="nightlapse_recording_1080p_chip">
+        <item quantity="one">Для відео тривалістю %1$d с час запису має становити %2$d хв</item>
+        <item quantity="few">Для відео тривалістю %1$d с час запису має становити %2$d хв</item>
+        <item quantity="many">Для відео тривалістю %1$d с час запису має становити %2$d хв</item>
+        <item quantity="other">Для відео тривалістю %1$d с час запису має становити %2$d хв</item>
+    </plurals>
+    <plurals name="nightlapse_recording_4k_chip">
+        <item quantity="one">Для відео тривалістю %1$d с час запису має становити %2$d хв</item>
+        <item quantity="few">Для відео тривалістю %1$d с час запису має становити %2$d хв</item>
+        <item quantity="many">Для відео тривалістю %1$d с час запису має становити %2$d хв</item>
+        <item quantity="other">Для відео тривалістю %1$d с час запису має становити %2$d хв</item>
+    </plurals>
+    <plurals name="number_of_cropped_face">
+        <item quantity="one">%d обрізано.</item>
+        <item quantity="few">%d обрізано.</item>
+        <item quantity="many">%d обрізано.</item>
+        <item quantity="other">%d обрізано.</item>
+    </plurals>
+    <plurals name="photos_remaining">
+        <item quantity="one">Приблизно %s фотографія</item>
+        <item quantity="few">Приблизно %s фотографії</item>
+        <item quantity="many">Приблизно %s фотографій</item>
+        <item quantity="other">Приблизно %s фотографії</item>
+    </plurals>
+    <plurals name="videos_remaining">
+        <item quantity="one">%s хвилина відео</item>
+        <item quantity="few">%s хвилини відео</item>
+        <item quantity="many">%s хвилин відео</item>
+        <item quantity="other">%s хвилини відео</item>
+    </plurals>
+</resources>

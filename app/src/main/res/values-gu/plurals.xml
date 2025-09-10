@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_timelapse_manual_record_speed_desc">
+        <item quantity="one">ટાઇમ લૅપ્સ મોડમાં રેકોર્ડ કરવાની ગતિ %d ગણી</item>
+        <item quantity="other">ટાઇમ લૅપ્સ મોડમાં રેકોર્ડ કરવાની ગતિ %d ગણી</item>
+    </plurals>
+    <plurals name="capture_time_label_desc">
+        <item quantity="one">%d સેકન્ડ</item>
+        <item quantity="other">%d સેકન્ડ</item>
+    </plurals>
+    <plurals name="menu_has_timer">
+        <item quantity="one">%d સેકન્ડ</item>
+        <item quantity="other">%d સેકન્ડ</item>
+    </plurals>
+    <plurals name="more_than_max_objects_announcement">
+        <item quantity="one">%1$dથી વધુ ઑબ્જેક્ટ.</item>
+        <item quantity="other">%1$dથી વધુ ઑબ્જેક્ટ.</item>
+    </plurals>
+    <plurals name="nightlapse_recording_1080p_chip">
+        <item quantity="one">%1$d સેકન્ડના વીડિયો માટે %2$d મિનિટના રેકોર્ડિંગની જરૂર છે</item>
+        <item quantity="other">%1$d સેકન્ડના વીડિયો માટે %2$d મિનિટના રેકોર્ડિંગની જરૂર છે</item>
+    </plurals>
+    <plurals name="nightlapse_recording_4k_chip">
+        <item quantity="one">%1$d સેકન્ડના વીડિયો માટે %2$d મિનિટના રેકોર્ડિંગની જરૂર છે</item>
+        <item quantity="other">%1$d સેકન્ડના વીડિયો માટે %2$d મિનિટના રેકોર્ડિંગની જરૂર છે</item>
+    </plurals>
+    <plurals name="number_of_cropped_face">
+        <item quantity="one">%d ચહેરો કપાયો.</item>
+        <item quantity="other">%d ચહેરા કપાયા.</item>
+    </plurals>
+    <plurals name="photos_remaining">
+        <item quantity="one">લગભગ %s ફોટો</item>
+        <item quantity="other">લગભગ %s ફોટા</item>
+    </plurals>
+    <plurals name="videos_remaining">
+        <item quantity="one">%s મિનિટનો વીડિયો</item>
+        <item quantity="other">%s મિનિટનો વીડિયો</item>
+    </plurals>
+</resources>
